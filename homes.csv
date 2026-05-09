@@ -714,6 +714,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3ec7c641-b9f9-4bf5-ba70-4a3b516e0bd5,playlists.homes,available,1.99,,60,10,9,name.com,,
 3ec84a08-2b66-46f3-934d-d9178d9d9c73,madewaves.homes,available,1.99,,54,1,10,name.com,,
 3ecf69e3-1950-42a8-8406-1f685e6eb530,bebothered.homes,available,1.99,,63,1,11,name.com,,
+3ef764c6-5ea4-4325-8af8-546e579c9753,posting.homes,premium,,,72,16,7,,,
 3f47ee25-607b-44ab-96eb-5ca4052f2976,bloodpressuregage.homes,available,1.99,,48,1,19,name.com,,
 3f541f7a-6b5d-4e22-bd94-5c1e6a3cd851,cometopass.homes,available,1.99,,74,1,12,name.com,,
 3f65ff20-6ea9-462c-b5b4-1e6e75778b4f,techniques.homes,available,1.99,,50,5,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5bcb0e1a-4a55-4bea-b5b6-831baff8c932,deadoralive.homes,available,1.99,,54,5,13,name.com,,
 5bcd6f40-08f5-457a-b8fa-0cd3f937bcf1,crowns.homes,available,1.99,,62,11,6,name.com,,
 5bd3c491-9524-449a-9752-ca36f3fbc61e,pairofhands.homes,available,1.99,,64,1,13,name.com,,
-5bd840ef-a290-460c-96a4-1e1bd67f9099,comeoutin.homes,available,1.99,,70,1,11,name.com,,

@@ -56,7 +56,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0427caca-638d-470c-be4a-b0452ff9efc5,chefs.homes,available,1.99,,68,18,5,name.com,,
 04790bf6-b054-4ffe-ba3e-bc0ba4b7b530,gooutwithabang.homes,available,1.99,,66,1,18,name.com,,
 0489b162-e147-4829-bf72-1fc468650a3d,cousins.homes,available,1.99,,68,11,7,name.com,,
-04971a97-a660-4b66-a89e-caa2dd21d871,chatbot.homes,resell,,,82,36,7,"Spaceship, Inc.",15/09/2025 18:39,15/09/2026 23:59
+04971a97-a660-4b66-a89e-caa2dd21d871,chatbot.homes,resell,,,82,40,7,"Spaceship, Inc.",15/09/2025 18:39,15/09/2026 23:59
 04984e5a-e356-4878-aa13-cfea2ed5b786,DeadSea.homes,available,19.98,,50,6,8,namecheap,,
 04a24f40-f7e6-4a48-b1ff-0bc550ccbb53,standupguy.homes,available,1.99,,72,2,12,name.com,,
 04a369d3-bcbf-4c33-b2a8-9c61d9df917d,justplainfolks.homes,available,1.99,,64,1,16,name.com,,
@@ -121,6 +121,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0a10f5cd-c41b-47b3-b411-472a8d1b3d7f,signout.homes,available,1.99,,75,4,8,name.com,,
 0a2b44ca-12a2-4e32-86c6-cc7a5597edbf,AcademyAward.homes,available,19.98,,76,1,13,namecheap,,
 0a2bd42a-8115-4da6-82f6-e08fb32a0903,gopast.homes,available,1.99,,68,0,7,name.com,,
+0a30e218-01d4-4786-b387-da252ba531b1,asyouwish.homes,premium,,,80,8,11,,,
 0a353203-5ae3-4762-bae7-334751117330,slips.homes,available,1.99,,70,10,5,name.com,,
 0a73fcfe-8b42-4f78-bbac-57d4b6d2636a,shrugs.homes,available,1.99,,50,2,6,name.com,,
 0a781a67-1ec9-4036-b269-8e39cb06fe6e,replying.homes,available,1.99,,52,3,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5ba455e7-aff8-4398-bbd6-c5a2cd556f3c,prayers.homes,available,1.99,,62,11,7,name.com,,
 5bcb0e1a-4a55-4bea-b5b6-831baff8c932,deadoralive.homes,available,1.99,,54,5,13,name.com,,
 5bcd6f40-08f5-457a-b8fa-0cd3f937bcf1,crowns.homes,available,1.99,,62,11,6,name.com,,
-5bd3c491-9524-449a-9752-ca36f3fbc61e,pairofhands.homes,available,1.99,,64,1,13,name.com,,

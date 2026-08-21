@@ -4,8 +4,8 @@ title: "Available .HOMES One-Word Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-08-20"
-date-released: "2026-08-20"
+version: "2026-08-21"
+date-released: "2026-08-21"
 url: "https://unique.domains/domains/tld/homes"
 repository-code: "https://github.com/UniqueDomains/homes-oneword-domains"
 license: "See LICENSE"

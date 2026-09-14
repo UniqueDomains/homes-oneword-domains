@@ -27,7 +27,7 @@ e71ef340-febe-49c3-acd4-da92db14bdfd,agaze.homes,available,1.8,19.98,low,low,5,n
 00ec48b2-3e25-4627-9e17-a1396d241f06,playfield.homes,available,1.99,,high,low,9,name.com,,
 d0a4c644-7125-4853-ab5e-832159203110,ahuh.homes,available,1.99,15.75,high,low,4,namesilo,,
 55bb75da-1eaf-4cdc-9d69-feb79d0308e0,hopefully.homes,available,1.99,,high,low,9,name.com,,
-3f0abc77-eaf8-4b3f-9fe3-5d6bf07852f7,working.homes,resell,,,high,low,7,"Spaceship, Inc.",01/11/2025 04:34,01/11/2026 23:59
+3f0abc77-eaf8-4b3f-9fe3-5d6bf07852f7,working.homes,resell,,,medium,low,7,"Spaceship, Inc.",01/11/2025 04:34,01/11/2026 23:59
 efe01657-07ca-4b02-95c7-e1cc28143c01,bareheaded.homes,available,1.8,19.98,low,low,10,namecheap,,
 a82114f8-71c1-4385-962c-ff601bb995d0,wearoff.homes,available,1.99,,low,low,8,name.com,,
 77f17cef-05f1-4a1e-8f47-0881497b5bde,aswell.homes,available,1.99,15.75,high,low,7,namesilo,,
@@ -252,7 +252,7 @@ e10c8341-e71e-4721-9b90-54138dcc5a64,marginal.homes,available,1.99,,high,low,8,n
 2c73c3be-53b0-461e-81b7-3796c5c713ad,reverse.homes,premium,43.75,43.75,high,low,7,name.com,,
 04696cfa-09c5-431f-a3db-5623bebb813b,plaguey.homes,available,1.8,19.98,low,low,7,namecheap,,
 11b2e919-c743-4358-8849-5fdb0f941bf2,toneofvoice.homes,available,1.99,,low,low,13,name.com,,
-7b07d473-8ae5-4ad8-aae8-81bf7c745661,licensed.homes,available,1.99,20.99,medium,low,8,name.com,,
+7b07d473-8ae5-4ad8-aae8-81bf7c745661,licensed.homes,available,1.8,21.98,medium,low,8,namecheap,,
 d97551d6-fd0d-4971-91a8-6ceb0aa95586,audacious.homes,available,1.99,15.75,high,low,9,namesilo,,
 7bc83dea-6cf7-4d50-ada5-3c8f9790ba08,want.homes,premium,2500,,high,low,4,name.com,,
 d548e3bc-9926-4571-abce-a4270c6717ad,voicemessage.homes,available,1.99,,high,low,13,name.com,,
@@ -278,7 +278,7 @@ b739a2bc-e70d-461d-9f12-111e8e352e9b,pepsi.homes,premium,2500,,high,low,5,name.c
 91324d3d-6710-4e83-8a27-c5dbf259ad3d,scummy.homes,available,1.8,19.98,low,low,6,namecheap,,
 6a50a95a-9a68-42be-b01b-534d9a4ca714,woops.homes,available,1.99,,high,low,5,name.com,,
 29af8783-8318-443a-bedc-c9e2ffdcb108,crisp.homes,available,1.99,20.99,medium,low,5,name.com,,
-950941e1-e7d6-4d55-a8a6-387ca4d92365,onlytoo.homes,available,1.99,,low,low,8,name.com,,
+950941e1-e7d6-4d55-a8a6-387ca4d92365,onlytoo.homes,available,1.8,21.98,low,low,8,namecheap,,
 8e332dc8-f088-40f4-bda8-1fc7b46ee1de,consistently.homes,available,1.99,15.75,medium,low,12,namesilo,,
 0ce7f400-254e-4c40-b1a5-fda397fb360d,ashy.homes,available,,,medium,low,4,,,
 1fe05c40-7b49-45b8-a2f3-e6c9e23fd241,aboral.homes,available,1.8,19.98,low,low,6,namecheap,,
@@ -366,7 +366,7 @@ fd779ff1-48f2-425d-b0b9-73412ee0e8e9,prevent.homes,available,1.99,,high,low,7,na
 9079f9a5-e9d6-4ae2-a2c3-7da7507e828a,extempore.homes,available,1.8,19.98,low,low,9,namecheap,,
 fc55dc35-a4e9-48ca-819d-cb59621be07e,heard.homes,available,1.99,,medium,low,5,name.com,,
 2fe77b94-ce64-45cd-8663-685062d8a2fe,ride.homes,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",27/09/2025 08:14,27/09/2026 23:59
-fd2db584-662a-46b4-9f06-0e247c4ed0ca,stone.homes,premium,812.5,,medium,low,5,name.com,,
+fd2db584-662a-46b4-9f06-0e247c4ed0ca,stone.homes,premium,832,832,medium,low,5,namesilo,,
 5b2e80dc-4603-466b-980a-3a21482cd445,heatwave.homes,available,1.99,,medium,low,9,name.com,,
 7602b09f-1140-4149-8e64-6ee34c461304,anosmatic.homes,available,1.8,19.98,low,low,9,namecheap,,
 4caa2573-0f50-445b-8903-fe6386fc63e0,secret.homes,premium,812.5,,high,medium,6,name.com,,
@@ -800,7 +800,7 @@ e97b17ad-c9b6-45e8-9a9b-8880bb9427fd,employer.homes,available,1.99,15.75,high,lo
 8b580cbe-02e5-412b-bb24-8162a3e8cc52,cutshort.homes,available,1.99,15.75,medium,low,9,namesilo,,
 89c69deb-6172-4c7f-be76-ca667d86a4cb,acanthoid.homes,available,1.8,19.98,low,low,9,namecheap,,
 0b300790-0756-4981-a798-1ddc2b3daa49,lover.homes,available,1.99,,high,low,5,name.com,,
-4bbb458e-7d77-4bf7-ab8e-c9a16023916c,broad.homes,resell,1.99,20.99,high,low,5,"Spaceship, Inc.",17/01/2026 15:53,17/01/2027 23:59
+4bbb458e-7d77-4bf7-ab8e-c9a16023916c,broad.homes,resell,1.99,20.99,medium,low,5,"Spaceship, Inc.",17/01/2026 15:53,17/01/2027 23:59
 943b6126-f754-463b-95d4-2af9b1ac292e,restaurant.homes,premium,812.5,,high,low,10,name.com,,
 aaa6d22a-14b9-41da-b044-e6a4f95aacda,cloud.homes,premium,2600,2600,medium,medium,5,namecheap,,
 e3f94c56-0778-4e6c-803c-118c2b465201,enlivening.homes,available,1.8,19.98,low,low,10,namecheap,,
@@ -905,7 +905,7 @@ d9420d04-c8b9-40e3-b130-8599e2feb2a3,lastminute.homes,resell,,,medium,low,11,Squ
 7f5c6aea-9391-40de-94a8-0a9e07c8d46b,admissive.homes,available,1.8,19.98,low,low,9,namecheap,,
 5fea4239-ffb8-40b3-91cb-1fb6d7a70b67,passinggrade.homes,available,1.99,,medium,low,13,name.com,,
 72f20732-39f1-4577-816b-760f8182db18,lettertotheeditor.homes,available,1.99,,high,low,20,name.com,,
-ad5f5777-ede3-46ed-9e5e-8aa993b2e98c,discipline.homes,available,1.99,15.75,high,low,10,namesilo,,
+ad5f5777-ede3-46ed-9e5e-8aa993b2e98c,discipline.homes,available,1.8,21.98,medium,low,10,namecheap,,
 e80619a9-c762-4f44-923e-42df92575bb9,prenuptial.homes,available,1.99,,high,low,10,name.com,,
 37608cb4-e09d-4473-bc64-7cec60e1d848,truant.homes,available,1.8,19.98,low,low,6,namecheap,,
 cc0b309a-a210-4ce8-840e-2ee16485615b,facetious.homes,available,1.8,19.98,low,low,9,namecheap,,
@@ -951,7 +951,7 @@ bf076c81-ad31-4b2f-8ec3-8bd5ddd2e5aa,tothinkthat.homes,available,1.99,,low,low,1
 e4856a05-17f3-48cf-a369-80a9a6fcc54b,bags.homes,premium,812.5,,medium,low,4,name.com,,
 da8ea4b7-21e6-4b28-ad8a-a777b4c60cb8,hearable.homes,available,1.8,19.98,low,low,8,namecheap,,
 f36d9996-2ef2-4534-9c22-1d2b6d7fdcc6,complaint.homes,available,1.99,15.75,medium,low,9,namesilo,,
-266b7a7a-2782-4e94-89a6-fa5a4dd9f6fa,everybit.homes,available,1.99,15.75,medium,low,9,namesilo,,
+266b7a7a-2782-4e94-89a6-fa5a4dd9f6fa,everybit.homes,available,1.8,21.98,low,low,9,namecheap,,
 c6d3b41e-dcaf-46b5-b05d-2275d57cf99f,theabsurd.homes,available,1.8,19.98,low,low,10,namecheap,,
 77592660-2b27-47cd-ba09-a30971ef7990,chocolatetruffle.homes,available,1.99,15.75,high,low,17,namesilo,,
 7b94fe25-cb8d-4710-926a-c1e892688e2a,torturing.homes,available,1.8,19.98,low,low,9,namecheap,,

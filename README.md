@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .homes one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,998 domains · **Median ask:** $86.78 · **High-demand under $2,500:** 17
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-15
 **Canonical page:** `https://unique.domains/domains/tld/homes`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,11 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| sorry.homes    | available | $1.99     | $20.99        | high           | low    | 5      | name.com                                     |
+| room.homes     | premium   | $812.50   | —             | high           | low    | 4      | name.com                                     |
+| time.homes     | premium   | $812.50   | —             | high           | medium | 4      | name.com                                     |
+| soft.homes     | premium   | $812.50   | $20.99        | high           | low    | 4      | name.com                                     |
+| cut.homes      | premium   | $812.50   | $20.99        | high           | low    | 3      | name.com                                     |
 | but.homes      | available | $1.99     | —             | high           | low    | 3      | name.com                                     |
 | broad.homes    | resell    | $1.99     | $20.99        | medium         | low    | 5      | Spaceship, Inc.                              |
 | all.homes      | premium   | $812.50   | $812.50       | high           | medium | 3      | name.com                                     |
@@ -75,15 +80,10 @@ print(df.head())
 | bed.homes      | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
 | err.homes      | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
 | ant.homes      | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| cut.homes      | premium   | $812.50   | $20.99        | high           | low    | 3      | name.com                                     |
 | hic.homes      | available | $1.99     | —             | high           | low    | 3      | name.com                                     |
 | atp.homes      | resell    | —         | —             | medium         | low    | 3      | Dynadot LLC                                  |
 | inc.homes      | premium   | $812.50   | —             | medium         | low    | 3      | name.com                                     |
 | low.homes      | available | $1.99     | —             | high           | low    | 3      | name.com                                     |
-| cap.homes      | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc.           |
-| law.homes      | premium   | $845      | $15.73        | high           | medium | 3      | namecheap                                    |
-| NYT.homes      | available | $1.99     | —             | high           | low    | 3      | name.com                                     |
-| egg.homes      | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOMES One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOMES One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

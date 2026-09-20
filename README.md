@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .homes one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,148 domains · **Median ask:** $78.80 · **High-demand under $2,500:** 18
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/homes`
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | all.homes      | premium   | $812.50   | $812.50       | high           | medium | 3      | name.com                                                  |
 | cxv.homes      | available | $1.80     | $19.98        | low            | low    | 3      | namecheap                                                 |
 | silly.homes    | resell    | $1.99     | $20.99        | high           | low    | 5      | Spaceship, Inc.                                           |
-| Ava.homes      | premium   | $812.50   | —             | high           | medium | 3      | name.com                                                  |
+| ava.homes      | premium   | $812.50   | —             | high           | medium | 3      | name.com                                                  |
 | dig.homes      | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                                  |
 | inviting.homes | resell    | $1.99     | —             | high           | low    | 8      | Go Daddy, LLC                                             |
 | bed.homes      | premium   | $812.50   | —             | high           | low    | 3      | name.com                                                  |
@@ -82,7 +82,7 @@ print(df.head())
 | low.homes      | available | $1.99     | —             | high           | low    | 3      | name.com                                                  |
 | cap.homes      | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | law.homes      | premium   | $845      | $15.73        | high           | medium | 3      | namecheap                                                 |
-| NYT.homes      | available | $1.99     | —             | high           | low    | 3      | name.com                                                  |
+| nyt.homes      | available | $1.99     | —             | high           | low    | 3      | name.com                                                  |
 | pad.homes      | resell    | —         | —             | medium         | low    | 3      | Global Domains International, Inc.                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOMES One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOMES One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

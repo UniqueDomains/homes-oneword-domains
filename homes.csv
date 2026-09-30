@@ -3,15 +3,16 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 08b78a91-95e7-4d25-8993-faaafcdf6158,intrinsic.homes,premium,2660,2660,high,low,9,namesilo,,,25/09/2026 10:55
 b62761a9-e16d-41a6-a2fb-3cfe758c051b,modigliani.homes,available,1.8,21.98,high,low,10,namecheap,,,18/09/2026 17:54
 650d26ea-4e27-473d-b1c2-6a31c966ef36,limited.homes,resell,,,high,low,7,Dynadot Inc,01/07/2026 14:32,01/07/2027 23:59,26/09/2026 07:14
-556db081-3491-403c-917a-298419f41eb1,cue.homes,available,1.99,17.29,high,low,3,namesilo,,,27/09/2026 06:59
+556db081-3491-403c-917a-298419f41eb1,cue.homes,resell,1.99,17.29,high,medium,3,namesilo,,,29/09/2026 13:01
 1c7c85c9-bcfc-4371-9e24-52742f33c824,bizarre.homes,available,1.8,21.98,high,low,7,namecheap,,,22/09/2026 21:11
 00f3ad0a-0882-4120-9445-b48a9db27365,baiza.homes,available,1.8,21.98,medium,low,5,namecheap,,,21/09/2026 19:33
 72c3f6cb-c341-4b6b-be8d-8c61a2f4b72f,meticulous.homes,available,1.8,19.98,high,low,10,namecheap,,,24/08/2026 22:04
 2c5aec5b-6b44-4837-9400-40738ed3c927,attache.homes,available,1.99,17.29,high,low,7,namesilo,,,21/09/2026 01:04
-f819e423-71c7-4a67-a965-8e40f7080bb0,winterhaven.homes,premium,53.92,53.92,medium,low,12,namesilo,,,25/09/2026 15:28
+f819e423-71c7-4a67-a965-8e40f7080bb0,winterhaven.homes,premium,53.92,53.92,high,low,12,namesilo,,,25/09/2026 15:28
+54684f1f-5ef5-4385-9de9-8b1fc74e76de,voters.homes,available,1.99,17.29,medium,low,6,namesilo,,,29/09/2026 10:41
 7b9a884d-5df0-4c07-be4a-e5cec1abf9d4,curator.homes,resell,,,high,low,7,"Spaceship, Inc.",02/02/2026 22:14,02/02/2027 23:59,26/09/2026 05:22
 41d0fadd-8262-48c3-a6e6-63b801b1d92b,ballista.homes,available,1.99,17.29,medium,low,8,namesilo,,,20/09/2026 00:35
-5f164d34-8f09-4b20-acf1-b4b46ebfbe9c,agog.homes,available,1.8,19.98,medium,low,4,namecheap,,,
+5f164d34-8f09-4b20-acf1-b4b46ebfbe9c,agog.homes,available,1.8,19.98,high,low,4,namecheap,,,
 77122144-8f45-4b25-8494-905a1b6eb712,decently.homes,available,1.8,19.98,medium,low,8,namecheap,,,13/08/2026 21:14
 0f30ab2a-a65e-42a9-81b9-5e68edcad698,ohmic.homes,available,1.8,21.98,medium,low,5,namecheap,,,04/09/2026 01:46
 90755cf3-bfcd-4270-9614-039af08b5794,dogmatism.homes,available,1.99,17.29,medium,low,9,namesilo,,,23/09/2026 15:23
@@ -22,14 +23,14 @@ f819e423-71c7-4a67-a965-8e40f7080bb0,winterhaven.homes,premium,53.92,53.92,mediu
 b458e468-9ffb-43ba-bd9d-55568e6c63d6,ovular.homes,available,1.8,21.98,medium,low,6,namecheap,,,04/09/2026 22:12
 a6767b94-c2c8-4272-b7d9-938a921e1350,outdoorsy.homes,available,1.8,21.98,high,low,9,namecheap,,,04/09/2026 19:14
 ada29e9f-5524-4231-bed5-7cec4b184e46,nominated.homes,available,1.8,21.98,high,low,9,namecheap,,,03/09/2026 18:18
-4f5d2571-9ca6-4663-a093-00f8aff833a4,bookable.homes,available,1.8,19.98,medium,low,8,namecheap,,,10/08/2026 19:04
+4f5d2571-9ca6-4663-a093-00f8aff833a4,bookable.homes,available,1.8,19.98,high,low,8,namecheap,,,10/08/2026 19:04
 48384ba9-aff9-4854-af1c-f0f195ced6d0,runyon.homes,available,1.99,17.29,medium,low,6,namesilo,,,18/09/2026 06:27
+de1712ef-f73f-418e-bfe1-c5d46f5b1cf6,succession.homes,available,1.99,14.45,high,low,10,dynadot,,,29/09/2026 06:21
 0144cf35-44d7-4dd6-a449-0d68b99818ca,sunless.homes,available,1.8,19.98,medium,low,7,namecheap,,,12/08/2026 12:31
 86746d1d-b50c-4085-b566-a9e0055a3d96,kike.homes,available,1.8,21.98,high,medium,4,namecheap,,,10/09/2026 06:15
 19823f5d-a569-4ab3-8e7a-6a0652690388,salad.homes,available,1.99,,high,low,5,name.com,,,
 3ef7eee8-da11-44e5-a610-3f70bff0f74b,binomial.homes,available,1.8,19.98,high,low,8,namecheap,,,10/08/2026 00:30
 b702150d-6259-4747-a475-98905b8b34ec,seriatim.homes,available,1.8,21.98,medium,low,8,namecheap,,,16/09/2026 01:10
-4eee7b49-5b57-427d-b3df-dba70b095fae,pair.homes,available,1.99,,high,low,4,name.com,,,
 a9f843fc-8bb4-4c32-a842-0bcfa8082dd1,senatorial.homes,available,1.8,21.98,medium,low,10,namecheap,,,10/09/2026 03:38
 73153834-801b-4665-8445-bf3ad63129c8,sake.homes,available,1.99,17.29,high,low,4,namesilo,,,27/09/2026 05:08
 70163d22-edb5-4a2a-a5c4-c4b1f87c5241,cato.homes,available,1.24,13.97,high,low,4,spaceship,,,28/09/2026 07:17
@@ -58,9 +59,9 @@ ddf23ff5-ba21-4b46-8a03-95aa67e615bb,barrette.homes,available,1.8,21.98,medium,l
 614c1a0e-5be7-451c-829e-b25f9afb6c1e,steakhouse.homes,available,1.99,17.29,high,low,10,namesilo,,,24/09/2026 14:46
 59b8b80f-5720-48f7-978c-d5de568466f9,actuary.homes,available,1.8,21.98,high,low,7,namecheap,,,17/09/2026 05:21
 ca9c0645-500c-4f12-a394-4eebc8d09b85,stalinist.homes,available,1.8,21.98,medium,low,9,namecheap,,,10/09/2026 18:25
-6d288501-9723-40ed-a070-2eb127e63761,isthmian.homes,available,1.8,19.98,medium,low,8,namecheap,,,22/08/2026 11:34
+6d288501-9723-40ed-a070-2eb127e63761,isthmian.homes,available,1.8,19.98,high,low,8,namecheap,,,22/08/2026 11:34
 943c4109-91bf-4123-99fa-c8ac549b4879,emily.homes,premium,832,832,high,medium,5,namesilo,,,25/09/2026 14:07
-33c58b73-1643-4325-be8d-ec055693b6fd,llb.homes,available,1.99,17.29,medium,low,3,namesilo,,,21/09/2026 14:13
+33c58b73-1643-4325-be8d-ec055693b6fd,llb.homes,available,1.99,17.29,high,low,3,namesilo,,,21/09/2026 14:13
 e0b48bcc-a7c1-4674-b2c7-5dce67bc30a3,bunco.homes,available,1.8,21.98,medium,low,5,namecheap,,,14/09/2026 07:59
 cbd9ab56-ec33-44b3-808a-25724b3da617,regressive.homes,available,1.8,21.98,high,medium,10,namecheap,,,09/09/2026 12:59
 c08ad936-d56c-4e25-8eb9-b73987d8cb84,unwritten.homes,available,1.8,21.98,high,low,9,namecheap,,,04/09/2026 17:17
@@ -68,7 +69,6 @@ c08ad936-d56c-4e25-8eb9-b73987d8cb84,unwritten.homes,available,1.8,21.98,high,lo
 9c1fdec4-3012-48cf-bcbf-f3e850145951,than.homes,available,1.99,,high,low,4,name.com,,,
 d634a26a-608f-40f4-97b7-94cd83df1583,bordello.homes,available,1.8,21.98,medium,low,8,namecheap,,,21/09/2026 18:17
 b4faa418-a570-4c8d-9330-0c2592117ae3,festive.homes,available,1.8,19.98,high,low,7,namecheap,,,18/08/2026 02:14
-333dc159-272c-42a3-8259-a25f831d3c57,give.homes,premium,812.5,,high,low,4,name.com,,,
 a97cd27f-69e7-41f3-b8ed-728ae7ef51e9,rnas.homes,available,1.8,21.98,low,low,4,namecheap,,,29/09/2026 05:15
 ebc09e94-48dd-4953-b767-d81a49d3159d,lxxxviii.homes,available,1.8,19.98,medium,low,8,namecheap,,,
 733ecbc1-7c31-4b4c-9156-1ebdb211dfce,cruel.homes,available,1.99,17.29,high,low,5,namesilo,,,22/09/2026 17:21
@@ -78,37 +78,43 @@ cd9cd296-7a12-4162-8883-fcf00e3fc511,cancelled.homes,available,1.8,19.98,high,lo
 6d9df984-c9f2-4081-86d6-5e2c1f525458,clubby.homes,available,1.8,19.98,high,low,6,namecheap,,,12/08/2026 11:19
 7f151f54-ecdf-4638-9480-50cc579f305a,abelia.homes,available,1.99,17.29,medium,low,6,namesilo,,,16/09/2026 15:02
 e9a650e9-d70c-422c-ba88-19cb4b1e8bbe,illegible.homes,available,1.8,19.98,medium,low,9,namecheap,,,21/08/2026 19:48
+13ba5f61-66f5-44ad-8d3c-10affb0b3640,faisal.homes,available,1.24,13.97,high,low,6,spaceship,,,29/09/2026 18:52
 c3dc6efd-7b41-41aa-9b28-bdd996f4eac5,baring.homes,available,1.99,17.29,medium,low,6,namesilo,,,22/09/2026 06:03
 0253434a-32fb-4367-9c04-d2ccd8645c58,aesthesia.homes,available,1.99,17.29,medium,low,9,namesilo,,,17/09/2026 13:26
+cc24a81e-d41a-4499-90d0-99468307ccc5,deployment.homes,available,1.99,17.29,high,low,10,namesilo,,,29/09/2026 18:37
 6b5a21a1-041f-4cd6-9d95-d2ab84dbc802,sonsy.homes,available,1.8,19.98,medium,low,5,namecheap,,,10/08/2026 20:35
 6bdd365d-51a8-4aa6-ad58-e6e175a6880b,lewis.homes,premium,845,845,high,low,5,namecheap,,,25/09/2026 03:55
+d8bba696-6284-4447-8506-22c747fb757b,marlboro.homes,premium,2660,2660,high,high,8,namesilo,,,29/09/2026 09:02
 fdd841ca-5d4e-4d58-acfa-56745fb221cc,aria.homes,premium,2660,2660,high,medium,4,namesilo,,,20/09/2026 05:09
 ee491e4c-8426-45f7-880e-38e657706e7b,crawler.homes,available,1.8,21.98,high,low,7,namecheap,,,19/09/2026 06:39
 440406e7-7f58-442c-b318-ff4f4009b1fb,bawling.homes,available,1.8,21.98,medium,low,7,namecheap,,,13/09/2026 07:42
 e60275e0-322c-4aa6-ba48-c6e985bb38fd,past.homes,available,1.99,17.29,high,low,4,namesilo,,,27/09/2026 02:57
-f238398d-9c46-4485-911f-130f8ba225d1,forgery.homes,available,1.8,19.98,medium,low,7,namecheap,,,13/08/2026 03:36
+f238398d-9c46-4485-911f-130f8ba225d1,forgery.homes,available,1.8,19.98,high,low,7,namecheap,,,13/08/2026 03:36
 f760a8cd-139a-4b25-b555-74b58a46fa59,low.homes,resell,1.99,,high,low,3,"Spaceship, Inc.",13/05/2026 07:42,13/05/2027 23:59,26/09/2026 07:20
 b9c9d918-6356-4c5a-8f11-c7f97ad37086,daly.homes,available,1.8,21.98,high,low,4,namecheap,,,25/09/2026 13:04
 67863616-0be7-46a7-95ff-2aab06fab2ff,meritable.homes,available,1.8,19.98,medium,low,9,namecheap,,,24/08/2026 20:53
 347198b3-421e-41af-b735-393e70ce9306,abused.homes,available,1.8,19.98,high,low,6,namecheap,,,
 a7ac0872-938d-414b-8d0e-d2bd692df7ff,snuggle.homes,available,1.8,21.98,high,low,7,namecheap,,,24/09/2026 20:12
+811a37be-0930-4bbc-8b2f-87f8f57857b2,haze.homes,resell,,,high,low,4,,,,30/09/2026 01:51
 307331b3-efbf-4cb9-925c-3518fb30aed5,formless.homes,available,1.8,19.98,medium,low,8,namecheap,,,
 89ee6bae-dee8-4bae-b2db-ebffdf27fcfe,naturistic.homes,available,1.8,21.98,medium,low,10,namecheap,,,03/09/2026 13:59
-7c346e09-be34-4c79-b193-d488305b4f58,weed.homes,premium,812.5,,high,low,4,name.com,,,
 9443e0d1-7a6f-4882-9141-7a55d9b2c041,undecided.homes,available,1.8,21.98,high,low,9,namecheap,,,04/09/2026 14:20
-48551c84-4920-46c4-a937-6f3304910dbe,skies.homes,available,1.8,21.98,medium,low,5,namecheap,,,18/09/2026 07:49
+48551c84-4920-46c4-a937-6f3304910dbe,skies.homes,available,1.8,21.98,high,low,5,namecheap,,,18/09/2026 07:49
 e6c961b3-1875-4069-a1d8-703dd433f3cf,hose.homes,available,1.99,17.29,medium,low,4,namesilo,,,28/09/2026 14:27
 42c6b127-feac-4313-9f07-fcf57f0879fa,beware.homes,available,1.24,13.97,medium,low,6,spaceship,,,28/09/2026 20:49
 8a5fb3a1-aec6-4cb8-869a-4f9e7376f424,elections.homes,available,1.24,13.97,medium,low,9,spaceship,,,29/09/2026 05:09
-0ba6a655-9996-4e38-b31e-e28fd014eede,gotten.homes,available,1.99,15.75,medium,low,6,namesilo,,,
+0ba6a655-9996-4e38-b31e-e28fd014eede,gotten.homes,available,1.99,15.75,high,low,6,namesilo,,,
 46f7e337-9654-4330-a30a-6936aae2b541,limits.homes,available,1.99,17.29,medium,low,6,namesilo,,,18/09/2026 15:06
-d8bd99dc-397b-4f36-8a16-f5e5e3d1bc6e,ventolin.homes,available,1.99,17.29,medium,low,8,namesilo,,,18/09/2026 03:33
+d8bd99dc-397b-4f36-8a16-f5e5e3d1bc6e,ventolin.homes,available,1.99,17.29,high,low,8,namesilo,,,18/09/2026 03:33
 14680dad-e300-4b23-8823-715874f9621b,boleyn.homes,available,1.99,17.29,medium,low,6,namesilo,,,19/09/2026 10:12
 2ff6a3e6-eeaf-4be6-9202-e66c1aa51f34,columns.homes,available,1.99,17.29,low,low,7,namesilo,,,28/09/2026 23:03
 a3a79905-d377-43f6-850c-8b54ed771e0d,unworthy.homes,available,1.8,19.98,medium,low,8,namecheap,,,14/08/2026 04:05
 44a556aa-736c-4b8b-af7f-8aee2c548366,businessman.homes,available,1.99,17.29,high,low,11,namesilo,,,19/09/2026 04:56
 3d4984cb-6106-4f5f-8a21-0914cdaa4c32,efforts.homes,available,1.99,17.29,medium,low,7,namesilo,,,27/09/2026 22:23
-871e203e-f105-4464-8fd2-e80d552e69bc,town.homes,premium,2500,,high,low,4,name.com,,,
+871e203e-f105-4464-8fd2-e80d552e69bc,town.homes,premium,2660,2660,high,low,4,namesilo,,,30/09/2026 00:27
+613aa195-7dfa-41e2-9605-a4e9633d51cb,motown.homes,available,1.54,14.21,high,low,6,porkbun,,,29/09/2026 06:38
+93e6ffe7-a848-43ef-8c1c-47f4f374c1b5,newcomb.homes,available,1.8,21.98,high,low,7,namecheap,,,29/09/2026 13:33
+5ca459a0-f1f4-4e0d-8506-c1212ac9a56b,brilliantly.homes,available,1.24,13.97,high,low,11,spaceship,,,29/09/2026 21:24
 d46b28bb-3130-46fd-8a38-16da6eec2ec6,bison.homes,premium,53.92,53.92,high,low,5,namesilo,,,23/09/2026 22:04
 23bc5826-f525-4fe9-ab40-77942b7412bc,cheap.homes,resell,,,high,low,5,"GoDaddy.com, LLC",11/02/2025 19:12,11/02/2027 23:59,26/09/2026 04:53
 5c3fe932-0808-46ca-b090-9207778bf76f,amiably.homes,available,1.8,21.98,medium,low,7,namecheap,,,13/09/2026 17:50
@@ -118,7 +124,7 @@ c2c74be8-dfcf-4642-b7ce-3b698a8e16f8,farfetched.homes,available,1.8,19.98,medium
 097ffa36-c32a-411d-95a4-c4452049271a,armory.homes,available,1.8,21.98,high,low,6,namecheap,,,20/09/2026 07:31
 3dcec3be-8cb4-4f86-8374-e24baf4ccb81,rarer.homes,available,1.8,21.98,medium,low,5,namecheap,,,20/09/2026 08:12
 f61cadb2-4715-4249-aeab-865d9fa1682c,cursively.homes,available,1.8,21.98,medium,low,9,namecheap,,,14/09/2026 10:07
-502b3cf6-6b3c-4d4b-88fb-4f190cc5bf88,kilogram.homes,available,1.99,,high,low,8,name.com,,,
+502b3cf6-6b3c-4d4b-88fb-4f190cc5bf88,kilogram.homes,available,1.99,25.99,high,low,8,godaddy,,,30/09/2026 01:44
 946eedca-369a-4cb0-a6ef-a49d1243b319,hardware.homes,resell,,,high,low,8,Dynadot Inc,19/08/2026 14:32,19/08/2027 23:59,26/09/2026 06:35
 3a73b4f5-e1eb-4cea-9734-c0ea182e3854,anode.homes,available,1.99,17.29,high,low,5,namesilo,,,19/09/2026 11:14
 ef3df11c-5433-4959-9787-375b6b39d932,singly.homes,available,1.8,21.98,medium,low,6,namecheap,,,15/09/2026 08:03
@@ -129,12 +135,13 @@ d67bbdef-f729-4f43-a2af-b0de09057a47,understands.homes,available,1.99,14.45,high
 904a20a7-993e-42fc-b7bd-90a54238bf84,minacious.homes,available,1.8,19.98,low,low,9,namecheap,,,24/08/2026 19:57
 fb5fc1c0-93c8-4e00-bbcc-04d89ead9e0d,troika.homes,available,1.8,19.98,high,low,6,namecheap,,,
 5097621a-6bac-4e02-8eb9-97387bf7b8a0,benadryl.homes,available,1.99,17.29,high,medium,8,namesilo,,,23/09/2026 07:35
-ce09e901-8e57-403c-83bd-1ec879df172b,stretching.homes,available,1.99,17.29,medium,low,10,namesilo,,,29/09/2026 02:14
+ce09e901-8e57-403c-83bd-1ec879df172b,stretching.homes,available,1.99,17.29,high,low,10,namesilo,,,29/09/2026 02:14
 bfa3593d-1182-4010-a215-da9e9628f0b3,documental.homes,available,1.8,19.98,medium,low,10,namecheap,,,14/08/2026 14:27
 176627b9-435e-4713-a326-b4f5b8361940,anethum.homes,available,1.99,20.99,medium,low,7,name.com,,,19/09/2026 05:35
 f3d81fba-49b1-432f-9037-0e3844b0d206,wimpy.homes,available,1.8,21.98,medium,low,5,namecheap,,,13/09/2026 12:06
 42512327-542a-4801-9523-ea511438503d,lunched.homes,available,1.99,17.29,medium,low,7,namesilo,,,21/09/2026 04:17
 9dec8633-1304-4e62-831e-ddacfabc5b71,occupant.homes,available,1.8,21.98,high,low,8,namecheap,,,09/09/2026 14:52
+88804b55-71c9-4d2c-a5e6-36ae22284d0d,ceremonies.homes,available,1.99,17.29,medium,low,10,namesilo,,,29/09/2026 10:36
 07c14efa-d769-486b-9ebc-3d221649095a,deviate.homes,available,1.8,19.98,high,low,7,namecheap,,,
 830d8845-249b-460f-b309-b54e82924000,metaphor.homes,available,1.24,13.97,high,low,8,spaceship,,,28/09/2026 14:52
 44e8d4b7-57e2-4431-8ac0-58d0577b9946,coleridge.homes,available,1.99,14.45,medium,low,9,dynadot,,,28/09/2026 09:24
@@ -144,13 +151,14 @@ a07b0269-b6b3-4280-bd96-a33060a2adbb,diazo.homes,available,1.8,19.98,medium,low,
 5af22490-1be8-4ba3-a04e-29c56799e6a0,treasure.homes,resell,,,high,low,8,"Sav.com, LLC - 2",08/08/2026 18:13,08/08/2027 23:59,27/09/2026 06:38
 d58f3ea3-55b9-4bcb-91ae-c8e5a66648aa,sadistic.homes,available,1.8,21.98,high,medium,8,namecheap,,,09/09/2026 20:44
 33fcf6c0-a64e-431a-97a6-30411bdc4d37,strapless.homes,available,1.8,21.98,high,low,9,namecheap,,,10/09/2026 21:55
-74c5f787-f529-49b5-bca4-0a35ad02441e,pallas.homes,available,1.8,21.98,medium,low,6,namecheap,,,20/09/2026 20:39
+74c5f787-f529-49b5-bca4-0a35ad02441e,pallas.homes,available,1.8,21.98,high,low,6,namecheap,,,20/09/2026 20:39
 cc8d67eb-d40f-409f-9461-b2aba1aa4c83,propitious.homes,available,1.8,21.98,high,low,10,namecheap,,,09/09/2026 03:38
 7d9b92ea-2fcb-4913-88f2-a000d6140c46,caudal.homes,available,1.8,19.98,high,low,6,namecheap,,,11/08/2026 22:22
 c6e35610-07ad-4412-ad4b-3dbf7f532b34,excited.homes,available,1.99,17.29,high,low,7,namesilo,,,24/09/2026 15:55
 99b4bed2-b58a-42cf-83e7-98f86bc60b39,freewill.homes,available,1.8,19.98,high,low,8,namecheap,,,18/08/2026 15:00
 4466346b-999c-41a1-812b-74bd1d6ca7c6,lent.homes,available,1.8,21.98,high,low,4,namecheap,,,28/09/2026 14:42
 70932eaf-bf9f-4bc1-a684-234773398a6c,bailor.homes,available,1.8,21.98,medium,low,6,namecheap,,,21/09/2026 19:14
+dbc0fbe3-4914-45bd-b67b-cf788b418935,elinor.homes,available,1.24,13.97,medium,low,6,spaceship,,,29/09/2026 22:05
 770cb8b1-66c5-4f51-88ee-59052db7d047,abattoir.homes,available,1.99,17.29,medium,low,8,namesilo,,,16/09/2026 14:13
 944b12e6-2226-4fbe-b402-0d2e2d5e537f,watertight.homes,available,1.8,19.98,high,low,10,namecheap,,,11/08/2026 08:34
 3046a866-10ec-4c52-94cc-62edfac60077,cloggy.homes,available,1.8,19.98,medium,low,6,namecheap,,,12/08/2026 11:46
@@ -162,18 +170,18 @@ eaec0ff0-ef23-4c32-b58b-33586aa77387,nyc.homes,premium,2500,,high,medium,3,name.
 c7848932-52f1-44e4-812d-bc3f25930559,indwelling.homes,available,1.8,19.98,high,low,10,namecheap,,,22/08/2026 03:37
 9428fbd4-7686-4c3e-bf91-1b3a9d32a08c,tough.homes,available,1.99,17.29,high,low,5,namesilo,,,22/09/2026 16:19
 717af27c-297f-49b2-853d-6e206b7446ec,virile.homes,available,1.8,21.98,high,low,6,namecheap,,,13/09/2026 06:04
-ed254289-34fb-4d65-8fec-0c7b33460cb8,crusade.homes,available,1.99,17.29,medium,low,7,namesilo,,,28/09/2026 09:29
+ed254289-34fb-4d65-8fec-0c7b33460cb8,crusade.homes,available,1.99,17.29,high,low,7,namesilo,,,28/09/2026 09:29
 a1de6d16-3f12-4ce4-9cc6-01c907958eed,trilled.homes,available,1.8,21.98,medium,low,7,namecheap,,,09/09/2026 18:19
 c60e89ed-dec5-4e7e-927a-6d8e805db23c,clop.homes,available,1.8,21.98,medium,low,4,namecheap,,,15/09/2026 20:47
 185ea78b-afd5-42ec-a3f8-2cab58934be6,assuming.homes,available,1.8,19.98,medium,low,8,namecheap,,,07/08/2026 08:16
 0c620783-4724-40fb-b51a-b3f623494459,deejay.homes,available,1.99,15.75,high,low,6,namesilo,,,
 ef489b82-fd02-4c25-939e-9a1fe57c569f,unrealized.homes,available,1.8,21.98,medium,low,10,namecheap,,,12/09/2026 11:00
 e80a4709-3db5-4d1f-93f7-c9a231d471b1,describing.homes,available,1.24,13.97,low,low,10,spaceship,,,29/09/2026 04:44
-b597c3aa-16a4-49ae-a044-29e827ffa820,routledge.homes,available,1.99,17.29,medium,low,9,namesilo,,,28/09/2026 16:54
+b597c3aa-16a4-49ae-a044-29e827ffa820,routledge.homes,available,1.99,17.29,high,low,9,namesilo,,,28/09/2026 16:54
 2120b3fe-0f6b-4bd5-9de9-c5ac94c57f8f,introduces.homes,available,1.99,17.29,medium,low,10,namesilo,,,18/09/2026 14:34
 ca31f953-bb83-482e-8a7f-f5126e94b8e0,absorber.homes,available,1.8,21.98,high,low,8,namecheap,,,16/09/2026 18:17
-11a7be19-032b-4892-b435-bcfdcaafa9e9,feb.homes,available,1.99,15.75,high,low,3,namesilo,,,
-e7fafe39-4054-477e-8183-306d6d0b8389,diligently.homes,available,1.8,21.98,medium,low,10,namecheap,,,14/09/2026 12:40
+11a7be19-032b-4892-b435-bcfdcaafa9e9,feb.homes,available,1.24,13.97,high,low,3,spaceship,,,29/09/2026 19:04
+e7fafe39-4054-477e-8183-306d6d0b8389,diligently.homes,available,1.8,21.98,high,low,10,namecheap,,,14/09/2026 12:40
 6922fc3a-314a-4a97-87e8-3e5967f37c55,spirally.homes,available,1.99,17.29,medium,low,8,namesilo,,,16/09/2026 06:13
 f67b777f-bfab-40f4-b787-7f8290a8843b,swear.homes,available,1.8,21.98,high,low,5,namecheap,,,24/09/2026 20:32
 533493cc-a4a1-4a68-903e-853b4e7b4146,vagus.homes,available,1.8,21.98,medium,low,5,namecheap,,,08/09/2026 22:09
@@ -181,16 +189,17 @@ f67b777f-bfab-40f4-b787-7f8290a8843b,swear.homes,available,1.8,21.98,high,low,5,
 8def1eca-8c44-448b-bca8-0549b7eaab95,equipped.homes,available,1.99,17.29,high,low,8,namesilo,,,24/09/2026 14:45
 6a95a028-9bec-4c5a-8c1f-3fe68cc5d771,revealing.homes,available,1.24,13.97,high,low,9,spaceship,,,27/09/2026 13:41
 89c6e53e-ac3f-4a35-8557-3d4cfc23f7ca,colored.homes,available,1.8,21.98,high,low,7,namecheap,,,22/09/2026 20:23
-0b518ed0-37e5-484c-86ff-287085199c4c,comprehend.homes,available,1.99,15.75,high,low,10,namesilo,,,
+0b518ed0-37e5-484c-86ff-287085199c4c,comprehend.homes,available,1.24,13.97,high,low,10,spaceship,,,29/09/2026 18:01
 027928e5-09d6-4a8c-a75e-59c1761e7b60,tike.homes,available,1.8,19.98,high,low,4,namecheap,,,25/08/2026 00:12
 edf3c000-da06-4290-ba2d-5e369856ce83,loth.homes,available,1.8,19.98,medium,low,4,namecheap,,,24/08/2026 08:19
 425e360d-e900-4c82-9e48-184372ef6f10,profligate.homes,available,1.99,20.99,medium,low,10,name.com,,,13/08/2026 20:24
 09062c8e-0776-4e4c-a977-1aacfec789a5,wondered.homes,available,1.99,,high,low,8,name.com,,,
 85203b51-df26-417a-99c1-107f173e3f97,bakshish.homes,available,1.99,17.29,medium,low,8,namesilo,,,21/09/2026 15:53
 26b561f1-682f-40b0-b9b7-fdaa8661798e,niches.homes,available,1.99,17.29,medium,low,6,namesilo,,,20/09/2026 09:56
-e9439752-ecc9-440c-8f68-bdf90922d10a,crash.homes,available,1.99,17.29,high,low,5,namesilo,,,25/09/2026 09:10
+e9439752-ecc9-440c-8f68-bdf90922d10a,crash.homes,available,1.8,21.98,high,low,5,namecheap,,,29/09/2026 09:51
 6ddf3a85-aa8b-496e-ae4d-bbd0d51f2ff0,hears.homes,available,1.99,17.29,medium,low,5,namesilo,,,18/09/2026 07:47
 c899100a-dd63-46f5-8dba-2219b73601db,authorial.homes,available,1.8,19.98,medium,low,9,namecheap,,,07/08/2026 16:19
+b41c882e-11fe-45dd-9283-0b5ddb6a9f5b,elle.homes,premium,2070.2,2070.2,high,low,4,spaceship,,,29/09/2026 21:03
 ef1f6155-923b-4fbd-ae14-3de0a3893c8a,assail.homes,available,1.8,21.98,medium,low,6,namecheap,,,20/09/2026 15:49
 4799139e-ca8f-41b7-8bb7-8cd81f7f6496,conserve.homes,available,1.99,17.29,high,low,8,namesilo,,,24/09/2026 17:27
 c0399cf2-b421-4e85-bc6d-05c1736ad5d8,byte.homes,resell,,,high,medium,4,"Spaceship, Inc.",20/07/2025 08:14,20/07/2027 23:59,26/09/2026 04:42
@@ -202,7 +211,7 @@ be80496c-0b56-4e2a-810e-42a50f04981b,mutter.homes,available,1.8,21.98,high,low,6
 4b255ea4-9fde-46a2-b840-31f25f0a2a28,whizz.homes,available,1.8,21.98,high,low,5,namecheap,,,21/09/2026 18:06
 7942566a-8bfe-49c3-a5d7-20a1c2831a01,zombies.homes,available,1.8,21.98,medium,low,7,namecheap,,,18/09/2026 03:58
 6f04a502-4ff1-4426-8096-e3883c047940,overtly.homes,available,1.8,21.98,medium,low,7,namecheap,,,15/09/2026 18:31
-07f4ea47-3606-46e4-8693-bccfd7a4240e,ipc.homes,available,1.99,17.29,medium,low,3,namesilo,,,28/09/2026 15:52
+07f4ea47-3606-46e4-8693-bccfd7a4240e,ipc.homes,available,1.99,17.29,high,low,3,namesilo,,,28/09/2026 15:52
 abcf2887-f357-4f64-b390-e5b5f429f75f,suave.homes,available,1.8,19.98,high,low,5,namecheap,,,13/08/2026 20:48
 4876546d-44e5-4169-88c6-257fc9046514,steroidal.homes,available,1.8,21.98,medium,low,9,namecheap,,,10/09/2026 20:19
 6bf115d3-859d-4d9e-a52d-28cc69029720,stoically.homes,available,1.8,21.98,medium,low,9,namecheap,,,16/09/2026 07:14
@@ -214,11 +223,13 @@ aa6e5daf-0e12-4be0-831e-e2e07e543e19,screwdrivers.homes,available,1.99,17.29,med
 fae8ecbc-c6cb-4da6-96b6-68c0585cc3f5,buckshee.homes,available,1.8,19.98,medium,low,8,namecheap,,,11/08/2026 07:33
 e4367e84-2c95-4dba-acd9-718bdb0e6f5b,savagely.homes,available,1.8,21.98,medium,low,8,namecheap,,,14/09/2026 01:43
 900de56d-fb04-4883-a836-8ce4cf8d649c,gaston.homes,resell,,,high,low,6,"Spaceship, Inc.",13/05/2026 07:42,13/05/2027 23:59,26/09/2026 06:20
+8e18c2b3-c32e-4467-854f-546beafeb9ad,cancer.homes,resell,,,high,medium,6,,,,29/09/2026 06:28
 7bfe0d7a-087b-4804-9851-7c7b15597a2e,recursive.homes,available,1.8,21.98,high,medium,9,namecheap,,,09/09/2026 12:05
 ddd78cca-3f79-40cb-8bfe-ca0fd8e34bb4,award.homes,resell,1.99,15.75,high,low,5,namesilo,,,27/09/2026 06:31
 bfb2155c-9f26-449e-84a8-5b31a017d354,flaxseed.homes,available,1.99,17.29,high,low,9,namesilo,,,16/09/2026 10:28
 e80619a9-c762-4f44-923e-42df92575bb9,prenuptial.homes,available,1.99,17.29,high,low,10,namesilo,,,22/09/2026 06:05
-3a6a4c4f-1fb2-4b87-affa-64e197051fae,bishopric.homes,available,1.8,21.98,medium,low,9,namecheap,,,23/09/2026 21:59
+6c13c7bf-97b4-43e7-bb59-11fe163c318a,wessex.homes,available,1.24,13.97,medium,low,6,spaceship,,,29/09/2026 08:19
+3a6a4c4f-1fb2-4b87-affa-64e197051fae,bishopric.homes,available,1.8,21.98,high,low,9,namecheap,,,23/09/2026 21:59
 354b2392-5b1a-40a6-8712-992b2ce43b68,creamy.homes,available,1.8,19.98,high,low,6,namecheap,,,13/08/2026 05:45
 51238f79-a24b-463d-93c6-abf180165732,syncretic.homes,available,1.8,21.98,medium,low,9,namecheap,,,11/09/2026 06:21
 a727a62e-2f41-4b04-8192-c89b15cd1961,atomic.homes,resell,,,high,medium,6,"NameCheap, Inc.",17/03/2024 16:55,17/03/2027 23:59,26/09/2026 04:06
@@ -233,15 +244,17 @@ fdb0721e-29f0-42ed-a32e-1333e9d4d65f,killer.homes,available,1.8,21.98,high,low,6
 eec9390c-93a8-468b-bb64-cc1bba0b2d3a,overeasy.homes,available,1.99,17.29,medium,low,9,namesilo,,,16/09/2026 17:44
 7b8cc30e-5546-410c-a183-27d300d502e3,elliot.homes,premium,2660,2660,high,low,6,namesilo,,,25/09/2026 21:48
 3c2fb972-295a-4bee-9897-f54996d2391b,economics.homes,available,1.24,13.97,high,low,9,spaceship,,,28/09/2026 19:02
-4b7df71e-a19f-4506-990d-21f0ffa871bb,shallow.homes,available,1.99,14.45,medium,low,7,dynadot,,,27/09/2026 20:23
+4b7df71e-a19f-4506-990d-21f0ffa871bb,shallow.homes,available,1.99,14.45,high,low,7,dynadot,,,27/09/2026 20:23
 b04c8c45-7d3d-45a4-bc77-66c830f72b9d,met.homes,resell,,,high,low,3,,,,27/09/2026 17:23
-1d5a0875-a47d-4bd1-9fc6-3d78a36aa910,idiomatic.homes,available,1.8,19.98,medium,low,9,namecheap,,,21/08/2026 18:07
+1d5a0875-a47d-4bd1-9fc6-3d78a36aa910,idiomatic.homes,available,1.8,19.98,high,low,9,namecheap,,,21/08/2026 18:07
 fc6a103f-a091-4855-b35d-32a44d339073,sluicing.homes,available,1.8,21.98,medium,low,8,namecheap,,,10/09/2026 11:31
+20c535e6-6eaa-4cfc-b9f0-19bb691e0a1b,tricked.homes,available,1.24,13.97,medium,low,7,spaceship,,,29/09/2026 23:35
 0fd32f63-ced3-4d3e-a54d-3491b0f0b354,forehead.homes,available,1.8,21.98,high,low,8,namecheap,,,29/09/2026 04:37
 ab3d9621-755c-4e7c-a6da-404780bc31d8,postmark.homes,available,1.8,19.98,high,low,8,namecheap,,,18/08/2026 14:12
 1c8a34f5-fbd8-4399-b867-0d8ceeaba451,suspect.homes,available,1.99,17.29,high,low,7,namesilo,,,28/09/2026 02:06
 3c1fd83b-26c4-4ce8-9341-c9f27b9520ee,amaethon.homes,available,1.8,21.98,low,low,8,namecheap,,,18/09/2026 15:34
 d8f7f76e-337b-4ad4-b2d1-b148068ac22b,amblyopia.homes,available,1.99,17.29,medium,low,9,namesilo,,,18/09/2026 17:11
+431c5955-5924-4002-9098-4b85a199d5c7,dealings.homes,available,1.24,13.97,high,low,8,spaceship,,,29/09/2026 18:35
 e4b8dea4-1c3c-4fb7-bc32-4ad77fd1a999,damage.homes,available,1.8,21.98,high,low,6,namecheap,,,25/09/2026 04:36
 4159639d-25e8-4928-8be3-1f8e1a0d759c,cyan.homes,resell,1.99,15.75,high,low,4,"Spaceship, Inc.",13/05/2026 07:43,13/05/2027 23:59,26/09/2026 05:23
 382a539e-e1ad-4091-9ed5-df56a39b699a,prefaded.homes,available,1.8,21.98,high,medium,8,namecheap,,,09/09/2026 01:34
@@ -263,7 +276,7 @@ d4ad0203-4734-4a5b-baea-9c15254fdddd,submit.homes,available,1.54,14.21,high,low,
 bee0be75-d339-425d-9aba-d6205a55e743,zymotic.homes,available,1.8,21.98,medium,low,7,namecheap,,,13/09/2026 15:57
 e90f2620-e72c-4a48-a99d-76591f8e2f25,intangible.homes,available,1.8,19.98,high,low,10,namecheap,,,21/08/2026 21:42
 f4d860bd-177d-4df4-bc3c-209a273bcf37,kendall.homes,resell,,,high,low,7,Porkbun LLC,25/06/2021 23:53,25/06/2027 23:59,26/09/2026 07:04
-350f04f2-95de-422e-95d0-f8b97c8a1917,unfettered.homes,available,1.8,21.98,medium,low,10,namecheap,,,12/09/2026 04:56
+350f04f2-95de-422e-95d0-f8b97c8a1917,unfettered.homes,available,1.8,21.98,high,low,10,namecheap,,,12/09/2026 04:56
 61e196e8-fd86-4919-8e02-84d99d2d92ea,unintended.homes,available,1.8,21.98,medium,low,10,namecheap,,,12/09/2026 13:30
 74b40cb3-0b0b-48e7-86ae-7a836750cf4b,throwback.homes,available,1.8,21.98,high,low,9,namecheap,,,11/09/2026 15:00
 b2259143-744c-4199-ad75-f9a95382ea6d,congolese.homes,available,1.8,19.98,high,low,9,namecheap,,,12/08/2026 21:54
@@ -273,17 +286,18 @@ b59a3dd9-6ce1-4053-99b4-ce2bc3ff92a1,denied.homes,available,1.99,17.29,low,low,6
 b97f8ac9-bc86-49cf-bb2d-f1fb9df971d2,credibly.homes,available,1.8,21.98,medium,low,8,namecheap,,,14/09/2026 09:26
 63522f24-4575-4acb-92b4-91b0aa6df89a,phase.homes,premium,812.5,,high,low,5,name.com,,,
 94e52990-fcad-4232-8ec2-9379f68b4f33,establish.homes,available,1.99,17.29,high,low,9,namesilo,,,22/09/2026 17:35
-6693065a-d458-47a8-85e7-14ade4622ea1,nazi.homes,available,1.8,21.98,medium,low,4,namecheap,,,03/09/2026 13:40
+6693065a-d458-47a8-85e7-14ade4622ea1,nazi.homes,available,1.8,21.98,high,low,4,namecheap,,,03/09/2026 13:40
 3ddd9629-7e2c-48e1-8582-2fe19e088376,operators.homes,available,1.99,17.29,medium,low,9,namesilo,,,28/09/2026 09:08
 fde3d59e-f5f6-4724-b52e-c25d07ee161b,birthrate.homes,available,1.8,21.98,medium,low,9,namecheap,,,23/09/2026 20:56
-891b4bc8-07fb-488b-8f74-4407ed819b8f,remotely.homes,premium,53.92,53.92,medium,low,8,namesilo,,,15/09/2026 23:10
+891b4bc8-07fb-488b-8f74-4407ed819b8f,remotely.homes,premium,53.92,53.92,high,low,8,namesilo,,,15/09/2026 23:10
 e79e3ee2-57e3-4fc8-9226-4caa781e80cc,industrialize.homes,available,1.99,,medium,low,13,name.com,,,
 2566cbe2-8699-435a-8bc6-0899c2fc39ce,abasic.homes,available,1.8,19.98,medium,low,6,namecheap,,,
 26d73d74-cb91-449c-b162-6a4023e11be9,atilt.homes,available,1.8,19.98,medium,low,5,namecheap,,,07/08/2026 13:13
 c1d40760-ba9f-4498-b42b-d4a7c10b4c42,thrashing.homes,available,1.8,21.98,medium,low,9,namecheap,,,13/09/2026 07:54
 5e8c21e8-7544-471d-8b14-99c0f38c491e,fanatical.homes,premium,2500,2500,high,medium,9,name.com,,,17/08/2026 21:50
+2e8f9f68-9ee8-479b-949c-7d44986829ee,gravitational.homes,available,1.24,13.97,medium,low,13,spaceship,,,29/09/2026 10:18
 20cdcfaf-1266-40d5-ab14-49cd63c806a0,bankbook.homes,premium,53.92,53.92,high,low,8,namesilo,,,22/09/2026 02:44
-afa50355-e22b-472e-8ada-945b4c38278a,fairchild.homes,available,1.99,17.29,medium,low,9,namesilo,,,27/09/2026 07:56
+afa50355-e22b-472e-8ada-945b4c38278a,fairchild.homes,available,1.99,17.29,high,low,9,namesilo,,,27/09/2026 07:56
 2d8a418f-d485-46ed-95f6-626ed994a60a,prone.homes,available,1.8,21.98,medium,low,5,namecheap,,,27/09/2026 07:37
 21e86ae8-fab8-43a6-a4ab-37f5c701ef0f,turnovers.homes,available,1.99,17.29,medium,low,9,namesilo,,,19/09/2026 22:02
 1af4ed2a-29c0-4eb2-a78f-68e67ee56e02,branchless.homes,available,1.8,19.98,medium,low,10,namecheap,,,11/08/2026 02:21
@@ -298,7 +312,7 @@ a55ccc5e-ab8c-4452-b21f-c90ee6c67c3d,mathew.homes,available,1.99,17.29,medium,lo
 e9cb16b1-aba4-499e-8f2f-e48b8fb43251,well.homes,resell,,,high,low,4,"Global Domains International, Inc. DBA DomainCostClub.com",24/04/2020 21:16,24/04/2027 23:59,26/09/2026 10:07
 c7865e27-981c-448d-9928-6ce790ccad19,chadwick.homes,available,1.24,13.97,medium,low,8,spaceship,,,28/09/2026 08:16
 410830b7-a212-4c32-b0f6-32e70ef46b4c,crone.homes,available,1.99,17.29,medium,low,5,namesilo,,,23/09/2026 04:47
-da0936f1-9dff-4912-b750-d90c77e940f5,unattached.homes,available,1.8,19.98,medium,low,10,namecheap,,,18/08/2026 14:48
+da0936f1-9dff-4912-b750-d90c77e940f5,unattached.homes,available,1.8,19.98,high,low,10,namecheap,,,18/08/2026 14:48
 d00ea91b-7e0d-4ea0-adea-94b77f41b907,uncomfortable.homes,available,1.99,17.29,medium,low,13,namesilo,,,26/09/2026 00:44
 0b572725-8144-4cb2-99a3-c1fab358165c,bus.homes,resell,,,high,low,3,Dynadot Inc,23/07/2026 20:59,23/07/2027 23:59,28/09/2026 23:27
 4265dcc1-f5c9-48ab-81b8-c2e2351c95af,comrade.homes,available,1.99,17.29,high,low,7,namesilo,,,28/09/2026 13:44
@@ -306,8 +320,9 @@ d00ea91b-7e0d-4ea0-adea-94b77f41b907,uncomfortable.homes,available,1.99,17.29,me
 fb8a1c74-9245-4f24-b54d-0cc77fd55eea,drogue.homes,available,1.99,17.29,medium,low,6,namesilo,,,17/09/2026 21:47
 600100fc-0349-4f21-a1db-30cdb47d3afc,compete.homes,premium,41.3,41.3,high,low,7,namesilo,,,
 ce879f28-a59f-47f8-a499-b495dc4b911a,stowe.homes,resell,,,medium,low,5,,,,28/09/2026 14:23
+d63e61ee-f142-4468-9141-99ef8655a68e,genre.homes,available,1.24,13.97,high,low,5,spaceship,,,29/09/2026 07:04
 6da8f6c9-9958-42a1-a610-c65328d20a8e,arapaho.homes,available,1.99,17.29,medium,low,7,namesilo,,,20/09/2026 00:08
-98442a7a-ee96-4ccf-9210-37a151b03b64,swain.homes,available,1.8,21.98,medium,low,5,namecheap,,,22/09/2026 21:56
+98442a7a-ee96-4ccf-9210-37a151b03b64,swain.homes,available,1.8,21.98,high,low,5,namecheap,,,22/09/2026 21:56
 ffcdddbf-75d8-423b-9b33-3400749224b1,indelibly.homes,available,1.8,21.98,medium,low,9,namecheap,,,15/09/2026 07:53
 3d9ea73a-1fab-4763-b5bd-d65034838366,dogsledding.homes,available,1.99,17.29,medium,low,11,namesilo,,,20/09/2026 01:02
 bbff8bc3-3756-4d66-ba3e-381afd90dae0,bony.homes,available,1.8,19.98,medium,low,4,namecheap,,,10/08/2026 18:42
@@ -331,21 +346,26 @@ b81dada4-4b45-4d89-a9c0-dd5576278aea,soothes.homes,available,1.99,17.29,medium,l
 dbce039a-309c-43a5-aabb-03939579d410,productive.homes,available,1.8,19.98,high,low,10,namecheap,,,18/08/2026 21:26
 4c89f773-9220-4550-b800-779910ddb3d3,kuwaiti.homes,available,1.8,19.98,high,low,7,namecheap,,,22/08/2026 17:05
 cf971d05-924e-4b31-87f4-35c204763549,desirable.homes,resell,,,high,low,9,"GoDaddy.com, LLC",03/03/2026 20:05,03/03/2027 23:59,26/09/2026 05:31
+1ae1cf89-23ec-4ece-a6be-822d1a4b685e,maintaining.homes,available,1.24,13.97,high,low,11,spaceship,,,29/09/2026 10:51
 23753b7f-2f3a-4377-a1ed-9e6a95692618,anomia.homes,available,1.99,17.29,medium,low,6,namesilo,,,18/09/2026 22:21
 25933965-c473-4cbc-a242-7a38f925bbdc,unbridled.homes,available,1.8,21.98,high,low,9,namecheap,,,12/09/2026 04:31
+9ff1a46d-0321-42dc-96b4-4eb9aa01e86d,outskirts.homes,available,1.24,13.97,high,low,9,spaceship,,,29/09/2026 19:53
 ca8d56e7-3f32-4aca-84d8-3dc75c29b6d4,flattened.homes,available,1.8,19.98,high,low,9,namecheap,,,18/08/2026 06:55
 6f80dfb9-8562-4963-bfa5-fea404a45569,eleventh.homes,available,,,high,low,8,,,,
 4f215ba1-df23-469d-a6b1-c21aeeeacd47,elise.homes,available,1.24,13.97,medium,low,5,spaceship,,,28/09/2026 21:52
+f20ee2ef-987c-4c63-9414-d5509791620f,wolverhampton.homes,available,1.8,21.98,medium,low,13,namecheap,,,29/09/2026 21:58
 c0cda987-fd8e-4eed-8f84-9d32c5db83ab,cloves.homes,available,1.99,17.29,medium,low,6,namesilo,,,17/09/2026 13:15
 c60340eb-a298-4dc2-8a8e-03d41ecb01b6,soviet.homes,available,1.8,21.98,high,medium,6,namecheap,,,10/09/2026 15:00
 3262d658-deac-4b50-839b-0af52bb49733,grandpas.homes,available,1.99,17.29,medium,low,8,namesilo,,,21/09/2026 09:18
+7ab12fed-7160-4729-a230-c6fca85a413c,federalism.homes,available,1.99,17.29,high,low,10,namesilo,,,29/09/2026 12:14
 06c1e7cb-7233-4f1e-be2d-b76d8c78cd27,agitator.homes,available,1.8,21.98,medium,low,8,namecheap,,,17/09/2026 18:07
 2eeed4e2-8b47-4328-94ac-e68ed8bc5e6d,unsavory.homes,available,1.8,19.98,medium,low,8,namecheap,,,14/08/2026 13:05
+8ebfa679-135c-469e-9a6b-6526ce9b7c37,maximize.homes,available,1.99,14.45,high,low,8,dynadot,,,29/09/2026 20:44
 98a2c5eb-d508-4d9a-9727-23ee07b07e8a,laboured.homes,available,1.8,19.98,medium,low,8,namecheap,,,22/08/2026 17:40
 79ce36be-df87-475b-9e23-61555c748e05,runaway.homes,available,1.8,19.98,high,low,7,namecheap,,,18/08/2026 17:46
 51a7c2aa-8dfc-4515-a37f-fb89d14f5e22,jolted.homes,available,1.8,19.98,medium,low,6,namecheap,,,22/08/2026 13:55
 fd779ff1-48f2-425d-b0b9-73412ee0e8e9,prevent.homes,available,1.99,,high,low,7,name.com,,,
-69c92278-43de-46d0-b8de-b512516fc7f4,funds.homes,resell,,,high,low,5,"GoDaddy.com, LLC",21/12/2024 00:58,21/12/2026 23:59,26/09/2026 06:17
+69c92278-43de-46d0-b8de-b512516fc7f4,funds.homes,resell,,,high,low,5,"GoDaddy.com, LLC",21/12/2024 00:58,21/12/2026 23:59,29/09/2026 07:34
 de07fd62-b4f1-471e-9831-f4287f63f275,joker.homes,premium,2070.2,2070.2,high,low,5,spaceship,,,28/09/2026 19:34
 254e22b1-005b-4653-a8d2-b434a653600b,cosmogenic.homes,available,1.8,19.98,medium,low,10,namecheap,,,13/08/2026 03:00
 2b1c7428-6a83-4048-881e-9aba9926751f,extrinsic.homes,available,1.8,19.98,medium,low,9,namecheap,,,17/08/2026 19:37
@@ -367,8 +387,9 @@ b5650511-2231-451d-baa5-99d3da58dd63,unstained.homes,available,1.8,21.98,medium,
 db27d3d1-284d-4d46-830b-632c9b393f16,repulse.homes,available,1.8,21.98,high,medium,7,namecheap,,,10/09/2026 12:48
 f42da279-e1d4-45c4-a961-a6fca713f299,adrenal.homes,available,1.8,19.98,high,low,7,namecheap,,,
 cc5319ba-e29e-42a6-99f7-bf57b87d776e,depends.homes,available,1.8,21.98,medium,low,7,namecheap,,,25/09/2026 20:36
-aaa02289-7ec4-4307-bb5c-43bf554f792e,vacations.homes,available,1.99,17.29,medium,low,9,namesilo,,,20/09/2026 00:12
+aaa02289-7ec4-4307-bb5c-43bf554f792e,vacations.homes,available,1.99,17.29,high,low,9,namesilo,,,20/09/2026 00:12
 72d2539c-fefe-4aa6-9e3c-b50c1ccd4e69,prokhorov.homes,available,1.99,17.29,high,low,9,namesilo,,,18/09/2026 05:06
+aa5c6e35-23fc-4abe-8442-0e6428f69229,translates.homes,available,1.99,17.29,medium,low,10,namesilo,,,30/09/2026 00:23
 9a65db22-2fff-4037-89b0-9172dbf3e717,oiled.homes,available,1.8,21.98,medium,low,5,namecheap,,,04/09/2026 01:49
 57b48ad4-12c2-4db6-bec0-63d45696b0ba,unlighted.homes,available,1.8,21.98,medium,low,9,namecheap,,,12/09/2026 13:01
 f5b684dc-a8de-4154-85c5-1cc25fa701af,unfortunately.homes,available,1.99,,medium,low,13,name.com,,,
@@ -381,14 +402,14 @@ cdaef5c9-3b12-492a-a6c7-1d4eb2ce1b52,rolls.homes,available,1.99,17.29,high,low,5
 a0da0bae-30e1-47e4-9b41-6f3fbceda3c2,duodecimal.homes,available,1.8,19.98,medium,low,10,namecheap,,,14/08/2026 21:19
 47e22565-f9c2-4f5c-9785-d8e4a4ad31c7,iterative.homes,available,1.8,19.98,high,low,9,namecheap,,,22/08/2026 11:39
 4a9c0b26-18b9-4962-b63b-7eff1d51b202,old.homes,resell,,,high,low,3,Dynadot Inc,15/06/2021 18:00,15/06/2030 23:59,26/09/2026 07:52
-4f5b812e-1573-41ad-9995-ee1355c3edea,rejection.homes,available,1.99,,medium,low,9,name.com,,,
+4f5b812e-1573-41ad-9995-ee1355c3edea,rejection.homes,available,1.99,,high,low,9,name.com,,,
 917f946a-7077-4b9a-94c4-f899cfbc3aef,bisque.homes,available,1.99,17.29,high,low,6,namesilo,,,23/09/2026 22:05
 8ca2ec72-2f90-481b-80aa-8b112091bed5,wear.homes,available,1.99,17.29,high,low,4,namesilo,,,27/09/2026 08:43
 1c87e098-de59-4602-93af-2b96f907a634,file.homes,resell,,,high,medium,4,"Spaceship, Inc.",17/01/2026 15:35,17/01/2027 23:59,26/09/2026 06:04
 b9fae8ac-b0f4-42d6-9747-3a187c3efa4c,shiner.homes,available,1.99,17.29,medium,low,6,namesilo,,,24/09/2026 00:40
 8e69c351-600f-4225-b9e8-501621cb4cbc,shining.homes,available,1.99,17.29,high,low,7,namesilo,,,23/09/2026 11:49
 5df05ee5-fc50-4aa7-a3be-4c1e76860b26,biddable.homes,available,1.8,19.98,medium,low,8,namecheap,,,
-430e6db8-45cf-4e2f-9263-da68d328115b,bjs.homes,available,1.99,17.29,medium,low,3,namesilo,,,23/09/2026 23:25
+430e6db8-45cf-4e2f-9263-da68d328115b,bjs.homes,available,1.99,17.29,high,low,3,namesilo,,,23/09/2026 23:25
 dd42f8b9-8888-4122-8247-90f109af63dc,berberis.homes,available,1.99,17.29,high,low,8,namesilo,,,23/09/2026 09:08
 c13daeee-0137-43b8-88d5-f37220a0eb26,erp.homes,available,1.24,13.97,high,medium,3,spaceship,,,28/09/2026 21:45
 60de3f44-6e34-4cb1-a36a-71f27c17d973,arrangement.homes,available,1.99,14.45,high,low,11,dynadot,,,27/09/2026 21:23
@@ -397,6 +418,7 @@ f51c870c-acc2-47da-aeab-de50a22f8110,darrell.homes,available,1.8,21.98,low,low,7
 664e6ab4-3135-4ba8-9d01-d0855691c1d1,xci.homes,available,,,medium,low,3,,,,
 4018a485-4b6e-4b8b-b8c5-c3d54567a109,miners.homes,available,1.24,13.97,medium,low,6,spaceship,,,28/09/2026 18:17
 fbaf7d63-034f-48dd-bec8-d42397d8c66d,stodgy.homes,available,1.8,19.98,medium,low,6,namecheap,,,18/08/2026 10:04
+e15e89e1-7043-4822-80c4-c5942f89b8d2,electron.homes,resell,,,high,low,8,,,,29/09/2026 18:44
 1d4aa7ab-805c-41b8-9333-247e7d42e36c,berber.homes,available,1.99,17.29,high,low,6,namesilo,,,23/09/2026 09:07
 02e39970-6519-4023-9afb-38fc60a28829,cheer.homes,available,1.99,17.29,high,low,5,namesilo,,,24/09/2026 14:09
 110562e9-d270-4695-a827-0a75a52da39c,fails.homes,available,1.99,17.29,medium,low,5,namesilo,,,18/09/2026 00:27
@@ -405,7 +427,7 @@ f0a9a5e3-b9ec-4ddf-a955-4705c8841e7a,beaut.homes,available,1.8,21.98,high,low,5,
 61b01c11-968a-40c9-8def-176cbfdae3b0,precipitous.homes,available,1.99,,medium,low,11,name.com,,,
 5407c658-a24c-44d1-96d6-23af62b760b5,regulation.homes,available,1.8,21.98,high,low,10,namecheap,,,09/09/2026 13:07
 4ebf15b8-c13d-4f62-97f7-719b2f7ba499,nourishing.homes,available,1.8,21.98,high,low,10,namecheap,,,19/09/2026 17:50
-f887c8ee-a1c0-417a-9dbd-01a17591b0e1,sphingine.homes,available,1.8,21.98,medium,medium,9,namecheap,,,10/09/2026 15:32
+f887c8ee-a1c0-417a-9dbd-01a17591b0e1,sphingine.homes,available,1.8,21.98,high,medium,9,namecheap,,,10/09/2026 15:32
 4d5b3dac-4c73-42da-af23-0a5e8ae3a5f3,bourbon.homes,available,1.99,17.29,high,low,7,namesilo,,,24/09/2026 07:37
 e4b8c41e-e9c7-4331-b70b-b728ab550708,seeable.homes,available,1.8,21.98,high,low,7,namecheap,,,10/09/2026 01:41
 2163b3da-31c5-4556-b0a1-f673f1e156a5,slimly.homes,available,1.8,21.98,medium,low,6,namecheap,,,16/09/2026 02:34
@@ -413,9 +435,10 @@ e4b8c41e-e9c7-4331-b70b-b728ab550708,seeable.homes,available,1.8,21.98,high,low,
 64ca229b-5364-4952-9a96-efb1395899c7,custodial.homes,available,1.8,19.98,high,low,9,namecheap,,,13/08/2026 12:19
 7338bb12-4eb5-483c-9c16-ef467fe0a797,tcp.homes,resell,,,high,low,3,,,,28/09/2026 03:08
 43ae0352-f99a-4933-93e5-cc95c79f55be,mucose.homes,available,1.8,21.98,medium,low,6,namecheap,,,03/09/2026 10:16
-6d782aff-5823-455b-9491-d86fc78d1b7c,mined.homes,available,1.8,19.98,medium,low,5,namecheap,,,24/08/2026 23:40
+6d782aff-5823-455b-9491-d86fc78d1b7c,mined.homes,available,1.8,19.98,high,low,5,namecheap,,,24/08/2026 23:40
 7d54e51b-1a92-4fab-9be2-4bc76302076e,semisweet.homes,available,1.8,21.98,medium,low,9,namecheap,,,10/09/2026 03:29
 27d99400-4090-4163-a862-247100cb668e,virgil.homes,available,1.24,13.97,high,low,6,spaceship,,,28/09/2026 02:58
+d6a2390d-f151-4f51-a0ca-f1d03c53571c,sultan.homes,resell,,,high,low,6,,,,29/09/2026 12:57
 e6b897f2-d046-4bc5-8010-f3bafbe5b695,bedewed.homes,available,1.8,19.98,low,low,7,namecheap,,,09/08/2026 06:46
 af08c68a-7cf9-4bdc-9d83-823845fe7343,unthought.homes,available,1.8,21.98,medium,low,9,namecheap,,,12/09/2026 12:35
 94f21283-c6b3-4b7c-881b-af9eb51d1590,bacterial.homes,available,1.8,21.98,high,low,9,namecheap,,,22/09/2026 16:00
@@ -457,8 +480,8 @@ e41532ae-d27b-4c5c-8820-b005b197bcac,whiteboard.homes,available,1.99,,high,low,1
 70d1f18e-c246-43f9-8c7f-2dc5eda6bfb1,reported.homes,available,1.24,13.97,high,low,8,spaceship,,,27/09/2026 11:56
 357ac6d0-9232-45ed-b649-4b7e35c8b5be,progress.homes,premium,55.11,55.11,high,low,8,porkbun,,,28/09/2026 20:21
 728ab744-569b-4a94-83f9-bbe4d3032703,roomie.homes,available,1.8,21.98,high,medium,6,namecheap,,,09/09/2026 18:35
-36f64f42-55d1-44a4-aaa1-08e34568bbfe,irritation.homes,available,1.8,19.98,medium,low,10,namecheap,,,
-f763471e-c213-46dc-be80-c1c1717c1a95,monterrey.homes,available,1.24,13.97,medium,low,9,spaceship,,,28/09/2026 14:54
+36f64f42-55d1-44a4-aaa1-08e34568bbfe,irritation.homes,available,1.8,19.98,high,low,10,namecheap,,,
+f763471e-c213-46dc-be80-c1c1717c1a95,monterrey.homes,available,1.24,13.97,high,low,9,spaceship,,,28/09/2026 14:54
 2b78a8fa-bf13-436f-bd18-5f6dc0fda4c0,winless.homes,available,1.8,21.98,medium,low,7,namecheap,,,13/09/2026 12:35
 19db3f6e-cd15-4df0-9a61-20fb502e1e64,designedly.homes,available,1.8,21.98,medium,low,10,namecheap,,,13/09/2026 17:33
 30693375-c02c-4649-a8b6-08853714b4e6,aranyaka.homes,available,1.99,17.29,medium,low,8,namesilo,,,20/09/2026 00:08
@@ -466,6 +489,7 @@ f763471e-c213-46dc-be80-c1c1717c1a95,monterrey.homes,available,1.24,13.97,medium
 87cf1bc5-2057-44ba-96d7-07a4ca430e5b,sharpe.homes,available,1.99,17.29,medium,low,6,namesilo,,,26/09/2026 03:16
 8068b05a-dd59-4b5a-bce2-e13c29c90f70,bentley.homes,premium,2600,2600,high,high,7,namecheap,,,25/09/2026 11:12
 0a934a80-2ae3-4fab-b8c3-a084c7b06b19,flaming.homes,available,1.8,19.98,high,low,7,namecheap,,,18/08/2026 06:30
+dca825a1-371b-4641-99a9-e894820aded6,flair.homes,available,1.8,21.98,high,low,5,namecheap,,,30/09/2026 01:15
 2c643d47-049e-4f78-937b-7e9ad678fc79,member.homes,resell,,,high,low,6,Dynadot Inc,15/02/2026 16:05,15/02/2027 23:59,28/09/2026 21:54
 55d7cc22-ff8e-4a12-ace9-ecb96272a60a,kafkaesque.homes,available,1.8,19.98,medium,low,10,namecheap,,,22/08/2026 15:04
 52603fed-7894-4d6d-a000-0d0f424c9656,ackee.homes,available,1.8,21.98,medium,low,5,namecheap,,,17/09/2026 01:52
@@ -491,6 +515,7 @@ ee03d1c9-2e15-48dd-8bad-4f5a364def67,benzyl.homes,available,1.99,17.29,high,low,
 4231a8e1-4cb7-4236-a828-5f08051cc508,genially.homes,available,1.8,21.98,medium,low,8,namecheap,,,13/09/2026 17:52
 b70936b9-270d-4beb-854d-c6c1aef7ce28,regression.homes,available,1.8,21.98,high,low,10,namecheap,,,20/09/2026 09:08
 537326fa-5387-4e3a-b1d2-f6eb2a1d7149,shutting.homes,available,1.8,19.98,high,low,8,namecheap,,,12/08/2026 12:22
+415b88cb-b039-4500-81fb-f368dd08e6e0,bozeman.homes,resell,,,high,low,7,,,,30/09/2026 00:51
 94a18bef-5099-4ce7-bcc5-b45ae38b87ee,grove.homes,resell,,,high,low,5,,,,28/09/2026 09:58
 71561297-12e8-48f4-acbe-38417855773d,metcalf.homes,available,1.8,21.98,medium,low,7,namecheap,,,28/09/2026 18:20
 9bc32d7e-72d5-41b9-9135-49229411b9db,brash.homes,available,1.8,19.98,medium,low,5,namecheap,,,11/08/2026 02:25
@@ -502,9 +527,10 @@ e217b9c0-3727-4226-aeb9-fddb9cac5929,spaceward.homes,available,1.99,17.29,medium
 211c1837-e8fd-4f68-8d9c-4f42eb2b738d,unfit.homes,available,1.8,21.98,medium,low,5,namecheap,,,12/09/2026 10:23
 710ff7e8-9b2d-44c3-96d4-b552e9dded13,baboon.homes,available,1.99,17.29,high,low,6,namesilo,,,21/09/2026 12:58
 d4171bfa-d07d-4c1f-88d0-22007cb67a1e,wound.homes,available,1.54,14.21,high,low,5,porkbun,,,28/09/2026 11:06
+a980f547-5311-4093-a694-ddb647a13af5,currents.homes,available,1.24,13.97,medium,low,8,spaceship,,,29/09/2026 17:16
 c5b4f2f4-3ca0-4c83-8f0a-c715a2f438c3,shapely.homes,available,1.8,21.98,high,low,7,namecheap,,,10/09/2026 05:57
 13e187fd-85a5-42ea-8ab3-3d6cd5c09058,contrasting.homes,available,1.99,15.75,high,low,11,namesilo,,,
-648c3f96-8ca8-49c9-8958-d02921e6fcfc,molar.homes,available,1.8,19.98,medium,low,5,namecheap,,,25/08/2026 03:38
+648c3f96-8ca8-49c9-8958-d02921e6fcfc,molar.homes,available,1.8,19.98,high,low,5,namecheap,,,25/08/2026 03:38
 5c5b2621-b938-42ba-bf81-17da99691a76,application.homes,resell,,,high,low,11,,,,27/09/2026 02:05
 ed51ebfb-65f8-4a7a-90bc-0d6d2b8724d5,iss.homes,available,1.24,13.97,high,low,3,spaceship,,,27/09/2026 23:32
 cd21e9d7-6c3f-4db5-8cef-40553728993d,reference.homes,available,1.24,13.97,high,low,9,spaceship,,,28/09/2026 18:25
@@ -523,18 +549,21 @@ e0b312f2-86a8-48b7-929e-7f31e40a526c,flee.homes,available,1.99,15.75,high,low,4,
 a8600a71-5919-4878-a441-e0a6463cd05c,humor.homes,available,1.99,17.29,high,low,5,namesilo,,,24/09/2026 06:28
 7c087deb-0e33-46d0-afe9-791b1691961d,shear.homes,available,1.99,,medium,low,5,name.com,,,
 b11c551f-152d-496f-ada7-86eee1c7528e,claremont.homes,resell,,,high,low,9,,,,27/09/2026 08:22
+4f787a1a-7937-4e28-b4e0-bac8d85ac270,parlor.homes,available,1.99,17.29,high,low,6,namesilo,,,29/09/2026 07:00
 993b9839-efd3-447d-8d18-df76042d49cc,battler.homes,available,1.8,19.98,medium,low,7,namecheap,,,09/08/2026 13:32
 6975c7df-9120-4da5-a1cf-dea8276d9ebd,fallible.homes,available,1.8,19.98,medium,low,8,namecheap,,,17/08/2026 21:30
 57d99ce3-411d-43f0-882c-e474e5aef5bf,scaled.homes,available,1.8,21.98,high,low,6,namecheap,,,09/09/2026 22:20
 1436026f-10e4-40a4-8f60-71521a0ed15c,turnbull.homes,available,1.24,13.97,medium,low,8,spaceship,,,28/09/2026 08:25
 a7a776ee-4bd2-4a42-b014-b77e801199ac,tramp.homes,available,1.8,21.98,high,low,5,namecheap,,,10/09/2026 22:07
 a504bc0a-768b-4321-bf38-5fcef871f54f,parable.homes,premium,65,65,high,low,7,namecheap,,,18/09/2026 10:36
+07cfe5e3-a58d-4d8b-a0fd-b61e681b5516,wallpaper.homes,premium,51.95,51.95,high,low,9,spaceship,,,29/09/2026 08:18
 c5621104-e2fb-43c6-ab66-6656301bb616,aberrance.homes,available,1.99,17.29,medium,low,9,namesilo,,,16/09/2026 15:12
 3e9a67bd-51f8-4931-b3d8-7b2db36c6ff1,elton.homes,available,1.24,13.97,high,low,5,spaceship,,,27/09/2026 19:29
 101375a4-1e0c-45e7-90c5-1256b032884f,graceful.homes,resell,,,high,low,8,"Spaceship, Inc.",26/05/2026 15:54,26/05/2027 23:59,26/09/2026 06:27
 1c0cc43f-1ec4-40cd-b38c-329cd7e2c302,thumping.homes,available,1.8,19.98,high,low,8,namecheap,,,08/08/2026 13:08
 9aac1c07-9d76-4e3f-b151-bf7c6c58a018,screwy.homes,available,1.8,21.98,medium,low,6,namecheap,,,10/09/2026 00:08
 74b955bd-44db-49f7-9633-0f16fc11858d,deposits.homes,available,1.99,15.75,medium,low,8,namesilo,,,
+901b5e70-76de-426b-a6b1-ca2d7d69247a,asturias.homes,available,1.99,17.29,high,low,8,namesilo,,,29/09/2026 15:34
 bd2bfe3a-7edb-4665-834e-368747953718,kicked.homes,available,1.8,21.98,medium,low,6,namecheap,,,25/09/2026 19:40
 be95226d-3f87-4213-a7e2-03ee16164c07,creep.homes,available,1.8,21.98,high,medium,5,namecheap,,,10/09/2026 12:23
 563ae52d-27e4-4660-9494-e25c0f186e6d,masterless.homes,available,1.8,19.98,medium,low,10,namecheap,,,24/08/2026 09:55
@@ -544,7 +573,7 @@ be95226d-3f87-4213-a7e2-03ee16164c07,creep.homes,available,1.8,21.98,high,medium
 035b2001-d5de-4160-8ab2-a863544e60d3,activate.homes,premium,2070.2,2070.2,high,low,8,spaceship,,,28/09/2026 06:46
 51913deb-0a00-48b0-b29d-5082d1c436ce,prompt.homes,resell,,,high,medium,6,Dynadot Inc,29/08/2026 13:25,29/08/2027 23:59,27/09/2026 07:29
 d75a6b68-d5c2-4979-868d-b3d57981aedf,apologized.homes,available,1.24,13.97,low,low,10,spaceship,,,29/09/2026 05:55
-1d7d38c6-5176-4134-9044-401ae54f1746,palm.homes,resell,,,high,low,4,Dynadot Inc,20/08/2025 12:14,20/08/2027 23:59,26/09/2026 08:00
+1d7d38c6-5176-4134-9044-401ae54f1746,palm.homes,resell,,,high,low,4,Dynadot Inc,20/08/2025 12:14,20/08/2027 23:59,30/09/2026 02:14
 2199c8e6-84c6-483a-b73e-b20abed7e95f,lennox.homes,premium,2660,2660,high,medium,6,namesilo,,,28/09/2026 07:59
 3496c836-3788-4efc-a7b2-600474c0c57b,revival.homes,resell,,,high,low,7,,,,29/09/2026 02:02
 f1a24a4f-d7bb-4a13-aaba-ad06b8cda47c,wasted.homes,available,1.99,17.29,medium,low,6,namesilo,,,22/09/2026 11:10
@@ -559,9 +588,10 @@ ee10bcb6-56f7-4f8c-8da7-efa6920d2ff7,wonderfully.homes,available,1.99,,high,low,
 272ec811-3b1c-477f-a29e-2eaa9ab11201,elementary.homes,available,1.8,19.98,high,low,10,namecheap,,,16/08/2026 03:31
 d87486d6-99c9-42a3-a4f9-2b5cb375f84b,foetid.homes,available,1.8,19.98,medium,low,6,namecheap,,,18/08/2026 02:26
 c908f56d-ada1-4da1-8a87-b2b0d8b29419,catalonia.homes,available,1.99,14.45,medium,low,9,dynadot,,,28/09/2026 09:16
-e3d91ca2-a3f9-44c3-a180-6689002a9d70,yuman.homes,available,1.8,21.98,medium,low,5,namecheap,,,13/09/2026 14:54
+e3d91ca2-a3f9-44c3-a180-6689002a9d70,yuman.homes,available,1.8,21.98,high,low,5,namecheap,,,13/09/2026 14:54
 a1df9614-22c4-4333-9988-3f17db9ddfd7,nuts.homes,available,1.99,17.29,high,low,4,namesilo,,,22/09/2026 08:20
 24761737-db2c-4faf-af7c-6f3d979aa062,sea.homes,resell,,,high,low,3,"Spaceship, Inc.",17/06/2021 01:47,17/06/2027 23:59,26/09/2026 08:52
+65f8172a-38e7-4d93-9119-9a95faa45a0d,accompanied.homes,available,1.24,13.97,medium,low,11,spaceship,,,29/09/2026 10:27
 faa43af3-17bd-4f62-9753-9a1a0bf52d5b,hysteric.homes,available,1.8,19.98,medium,low,8,namecheap,,,21/08/2026 17:20
 07585549-f929-47e2-9645-0b2e4ae93129,marries.homes,available,1.99,17.29,medium,low,7,namesilo,,,28/09/2026 23:51
 f028ef04-2012-4c24-8c76-292ab4ca09b3,jowett.homes,available,1.8,21.98,medium,low,6,namecheap,,,23/09/2026 08:21
@@ -577,6 +607,7 @@ ba7f9c6c-c046-445a-b69b-07ca1ff4d13d,impressions.homes,available,1.54,14.21,medi
 c026b487-e38c-4300-89f8-3555683dd3e5,universal.homes,premium,2070.2,2070.2,high,high,9,spaceship,,,28/09/2026 06:33
 4b514414-cf67-4c1d-b541-d6fd908fe96e,hypnotized.homes,available,1.8,19.98,high,low,10,namecheap,,,17/08/2026 22:46
 3ff3cfad-3046-48cf-ad85-0b259c84e73f,naught.homes,available,1.8,21.98,medium,low,6,namecheap,,,03/09/2026 22:40
+e3981e7b-dfcb-4726-b2c1-509bc9d87ae0,withdrawing.homes,available,1.54,14.21,high,low,11,porkbun,,,29/09/2026 21:24
 a709a0b5-fe2f-4cf2-a730-58df0bd64cac,bedspread.homes,available,1.8,21.98,high,low,9,namecheap,,,22/09/2026 22:52
 d9d8c0da-d731-42b3-995b-903873a48165,solve.homes,available,1.99,,high,low,5,name.com,,,
 d578d224-3eb7-4aa1-992f-7fdad2bf89f5,distressed.homes,premium,41.3,41.3,medium,low,10,namesilo,,,14/08/2026 12:16
@@ -593,72 +624,87 @@ cf24e86d-6cd6-409d-a712-9f3048be7913,exceeding.homes,available,1.8,19.98,high,lo
 dd6b5d80-636a-479a-b5dc-b0bd9240dc99,victories.homes,available,1.99,17.29,medium,low,9,namesilo,,,18/09/2026 09:23
 8af4626c-3ef1-4339-bba8-4e26a6fea43a,bakehouse.homes,available,1.8,21.98,high,low,9,namecheap,,,21/09/2026 20:13
 208dbeb9-d3b8-4648-9f98-87a82abdf0e4,tactics.homes,available,1.24,13.97,high,low,7,spaceship,,,28/09/2026 02:32
-ee778acc-65d9-4654-a5ef-721dccf6a804,heartening.homes,available,1.8,19.98,medium,low,10,namecheap,,,21/08/2026 02:09
+ee778acc-65d9-4654-a5ef-721dccf6a804,heartening.homes,available,1.8,19.98,high,low,10,namecheap,,,21/08/2026 02:09
 5d04f670-b1c4-4b5b-925f-3be1f45d1b13,sick.homes,resell,,,high,low,4,"GoDaddy.com, LLC",17/04/2025 12:42,17/04/2027 23:59,26/09/2026 09:01
 af6f9e5f-8b2e-4e72-bb0b-4b681eb57642,statuesque.homes,available,1.8,19.98,high,low,10,namecheap,,,22/08/2026 14:32
 72ec70c4-c7b8-4793-99e4-7dd9f1fb6b84,cryptical.homes,available,1.8,19.98,medium,low,9,namecheap,,,11/08/2026 12:19
+f9346c36-fbdf-40af-9721-a9ebe3981fcf,lars.homes,resell,,,high,low,4,,,,29/09/2026 09:31
 3f724b73-7db1-47a0-841e-30a4f246c642,solitary.homes,available,1.8,19.98,high,low,8,namecheap,,,24/08/2026 08:55
+eecc7edc-1bc5-405c-8c4f-7b5a9626c1c1,lair.homes,resell,,,high,low,4,,,,30/09/2026 01:19
 0d5d2022-b164-477e-b65f-e812deb40d8c,susurrous.homes,available,1.8,21.98,medium,low,9,namecheap,,,03/09/2026 11:24
 f5dc262a-1285-44cb-aea0-70b646a7304e,miami.homes,resell,,,high,medium,5,Porkbun LLC,25/06/2021 23:36,25/06/2027 23:59,26/09/2026 07:32
 24cba1b7-061b-496e-8b4e-b109a7cce3ee,opaque.homes,available,1.8,21.98,high,low,6,namecheap,,,04/09/2026 15:47
 3ddc9e59-dff4-45cc-be94-2e1b5fc911c5,stealthy.homes,available,1.8,19.98,medium,low,8,namecheap,,,18/08/2026 19:00
-05e64424-77b2-4ef3-8f29-178b179aff27,pansy.homes,available,1.8,21.98,medium,low,5,namecheap,,,09/09/2026 08:07
+05e64424-77b2-4ef3-8f29-178b179aff27,pansy.homes,available,1.8,21.98,high,low,5,namecheap,,,09/09/2026 08:07
 00e0eea4-8a52-4a74-bffb-5def992932ae,grubby.homes,available,1.8,19.98,medium,low,6,namecheap,,,09/08/2026 09:31
 424176aa-bede-4c33-823c-3ec20d3bcdc2,arborvitae.homes,available,1.99,17.29,medium,low,10,namesilo,,,20/09/2026 00:54
 1b8bc774-8a12-4426-9908-9b70fa205f2c,acetous.homes,available,1.8,19.98,medium,low,7,namecheap,,,
 41cff6c3-5940-4c20-9bf3-64bece08900d,biogenetic.homes,available,1.8,19.98,high,low,10,namecheap,,,10/08/2026 01:12
+5a8e39e7-78b8-4cf6-a6de-5dbb4270bc68,langston.homes,available,1.24,13.97,medium,low,8,spaceship,,,29/09/2026 09:59
 791efc6a-7fd1-4ff7-8c9d-fd8fc1a966f7,analects.homes,available,1.99,17.29,medium,low,8,namesilo,,,19/09/2026 01:48
 8a0dbc95-7d37-4925-8499-9acc1e87c00f,brown.homes,premium,832,832,high,low,5,namesilo,,,23/09/2026 10:03
 7a729046-c847-481c-88ef-63899b49dcf3,iodine.homes,available,1.8,19.98,high,low,6,namecheap,,,21/08/2026 17:24
 a7262dfd-4c76-4ffa-b265-090037bdbebd,puberty.homes,available,1.24,13.97,high,low,7,spaceship,,,29/09/2026 02:00
-11f0f1ac-0cd2-432f-9077-a58d6eb9b3aa,oklahoman.homes,available,1.99,17.29,medium,low,9,namesilo,,,16/09/2026 05:05
+11f0f1ac-0cd2-432f-9077-a58d6eb9b3aa,oklahoman.homes,available,1.99,17.29,high,low,9,namesilo,,,16/09/2026 05:05
 7f5dd787-1743-4d8a-b2e8-8da09da5d26b,measurable.homes,available,1.8,19.98,high,low,10,namecheap,,,24/08/2026 18:27
 26513dec-01f4-41ac-a847-174bbfe666d2,handling.homes,available,1.99,17.29,high,low,8,namesilo,,,25/09/2026 23:04
 587bde24-47c9-481e-b370-12f173522bf7,actias.homes,available,1.99,17.29,medium,low,6,namesilo,,,17/09/2026 04:29
-5e903dfa-8b17-487a-923d-1985d1010746,moderation.homes,available,1.99,,high,low,10,name.com,,,
+5e903dfa-8b17-487a-923d-1985d1010746,moderation.homes,available,1.99,17.29,high,low,10,namesilo,,,29/09/2026 17:29
 6431e811-3078-4b67-99a5-ff89478737c5,upwards.homes,available,1.24,13.97,medium,low,7,spaceship,,,28/09/2026 09:52
 07852878-ed13-4abe-9dbb-3907bbe31710,mayor.homes,available,1.99,17.29,high,low,5,namesilo,,,24/09/2026 15:10
 687cdfa8-0101-452d-b9a9-6a0334103027,vitalizer.homes,available,1.99,17.29,medium,low,9,namesilo,,,19/09/2026 09:10
 23b99c31-7c02-4a1d-b006-d7e4555abddb,arden.homes,resell,,,medium,low,5,,,,28/09/2026 12:17
 3e501806-d773-48a0-a2bb-66471004fc9f,chilling.homes,available,1.8,19.98,medium,low,8,namecheap,,,12/08/2026 05:19
-5c718c8d-9037-4c87-a45d-6f59b1ed924a,thirties.homes,available,1.8,21.98,medium,low,8,namecheap,,,16/09/2026 12:05
+31afec65-4532-423f-82e1-e536e1caa16f,brazos.homes,available,1.24,13.97,medium,low,6,spaceship,,,29/09/2026 18:04
+5c718c8d-9037-4c87-a45d-6f59b1ed924a,thirties.homes,available,1.8,21.98,high,low,8,namecheap,,,16/09/2026 12:05
+1f8e57b5-bde3-4e3e-b520-2c7a232f01bf,chandler.homes,resell,,,high,low,8,,,,30/09/2026 01:02
 fce7774e-26b8-42ce-9a42-d716b2c68227,roofs.homes,premium,41.3,41.3,medium,low,5,namesilo,,,
 1a4bce0e-9268-4de0-b8b3-a65ac4b6eb55,naked.homes,premium,2600,2600,high,low,5,namecheap,,,22/09/2026 11:56
 c6725c82-47d0-42cc-9e45-cc4df7bb7627,upmost.homes,available,1.8,21.98,medium,low,6,namecheap,,,11/09/2026 17:50
 dc9a7203-3daa-4ad1-800c-0191457064e9,volumetric.homes,available,1.8,21.98,medium,low,10,namecheap,,,13/09/2026 07:03
 c1971b63-627e-48a7-b48e-17281c1be692,squander.homes,available,1.8,21.98,medium,low,8,namecheap,,,13/09/2026 08:34
 887fd592-b4b3-4cb0-bf12-ebd3379e1214,dreadful.homes,available,1.99,17.29,high,low,8,namesilo,,,22/09/2026 15:15
+8f9d777f-acdf-43a7-b973-c214856da181,cosmopolitan.homes,resell,,,high,medium,12,,,,29/09/2026 14:34
 7143cb78-2310-4e1b-ae39-0a86a051b9b7,dowding.homes,available,1.8,19.98,medium,low,7,namecheap,,,14/08/2026 17:10
 eb637b11-e040-4dde-beda-c2356d4c3dda,cocacola.homes,premium,2660,2660,high,high,9,namesilo,,,17/09/2026 07:18
 86ea0046-008c-472a-afcf-571c8ddc0656,strait.homes,available,1.8,21.98,medium,low,6,namecheap,,,10/09/2026 21:53
+4ce5520f-3a26-4c48-a1ff-96f9fbbc4403,kano.homes,available,1.54,14.21,high,low,4,porkbun,,,29/09/2026 09:07
 e3e5e165-a94e-478d-a35a-47f1b8ea439c,definite.homes,available,1.8,21.98,high,low,8,namecheap,,,24/09/2026 05:06
 91805704-3f2b-46f5-bc96-b4bbe05ce8d5,attending.homes,available,1.99,17.29,high,low,9,namesilo,,,21/09/2026 01:25
+f86aba5b-143e-401e-8ff6-1d791e5d4874,golgi.homes,available,1.24,13.97,high,low,5,spaceship,,,30/09/2026 00:57
 ee1337bd-d6e8-4216-90e3-d02ee2e5e332,doting.homes,available,1.8,19.98,high,low,6,namecheap,,,14/08/2026 16:28
 99a2f135-4d49-4cbd-b32d-12ddba570113,largest.homes,available,1.99,17.29,medium,low,7,namesilo,,,27/09/2026 21:38
+4c3dfa1d-1f98-44e2-aad8-1782e8f26cf9,crater.homes,available,1.8,21.98,medium,low,6,namecheap,,,29/09/2026 06:27
 2c7745fa-6ef4-4a2a-b53c-53cda3b753ae,wiley.homes,premium,832,832,high,low,5,namesilo,,,27/09/2026 08:05
 236ac30e-e2f6-46fc-8875-1e2fab9d85ef,upstream.homes,available,1.8,21.98,high,low,8,namecheap,,,12/09/2026 23:24
 08073b2f-c19e-4def-b09b-fc6182be8d30,enthusiast.homes,available,1.8,21.98,high,low,10,namecheap,,,08/09/2026 02:16
 9a446b34-2dc3-4703-acee-c456ec9410f5,azt.homes,available,1.99,17.29,high,low,3,namesilo,,,21/09/2026 11:33
 7fbe86d5-362f-4695-9ae7-de4db09cafe2,activated.homes,available,1.8,21.98,high,low,9,namecheap,,,21/09/2026 16:32
 8876ebdd-dd98-4ab8-91cb-777e436b72d2,lieutenant.homes,available,1.24,13.97,high,low,10,spaceship,,,28/09/2026 02:16
+ffa6c365-2cd2-4e42-afd8-84fc31b3d31e,negligence.homes,available,1.99,17.29,high,low,10,namesilo,,,29/09/2026 07:40
 a8f4c555-2932-4fb4-8341-f557e40d9209,lawful.homes,available,1.8,19.98,high,low,6,namecheap,,,22/08/2026 21:21
 8ea8f117-9dec-4dca-9c03-5814f5dd1be6,bize.homes,available,1.99,17.29,medium,low,4,namesilo,,,23/09/2026 21:41
+587d5d69-26ce-47a9-af8b-8e2eea28523a,goddard.homes,premium,,,medium,low,7,,,,30/09/2026 01:46
 370e9d30-85ea-47c6-81a8-440dba254247,bedsit.homes,available,1.99,17.29,high,low,6,namesilo,,,22/09/2026 23:36
-9062dc4c-9ffa-491b-b2a3-2195382fb154,reichstag.homes,available,1.99,17.29,medium,low,9,namesilo,,,28/09/2026 16:30
+9062dc4c-9ffa-491b-b2a3-2195382fb154,reichstag.homes,available,1.99,17.29,high,low,9,namesilo,,,28/09/2026 16:30
 123c90bc-96a3-42ea-a06c-f04f1928c40f,endermatic.homes,available,1.8,19.98,medium,low,10,namecheap,,,17/08/2026 00:58
 35c17e2a-4d20-4e2f-893b-1e557e70c138,sanguine.homes,available,1.8,21.98,high,medium,8,namecheap,,,09/09/2026 19:18
 2009680a-ccd9-42ae-923c-f22a2cb85efc,expressive.homes,available,1.8,19.98,high,low,10,namecheap,,,17/08/2026 18:50
 59156518-d5c3-4220-a5da-66853f665c9a,pious.homes,available,1.8,21.98,high,medium,5,namecheap,,,08/09/2026 19:57
 dd40732d-2ed5-4b9d-b0d1-6d6536ab0fdb,apiece.homes,available,1.8,19.98,medium,low,6,namecheap,,,14/08/2026 22:12
+f95f3031-db3e-482a-88d2-4d2b8e4cd35c,entertained.homes,available,1.54,14.21,medium,low,11,porkbun,,,29/09/2026 10:59
 6b5ba5e3-932f-4175-845f-a861df56a110,apeldoorn.homes,available,1.8,21.98,medium,low,9,namecheap,,,19/09/2026 16:24
 50e438a1-bc2d-4125-91bb-35100ad6e848,der.homes,available,1.24,13.97,medium,low,3,spaceship,,,28/09/2026 20:56
 a218e9ed-4fca-4261-89da-c87c87ff55e4,reticently.homes,available,1.8,21.98,medium,low,10,namecheap,,,15/09/2026 23:31
 480eaefe-1d6b-43ab-8c3f-db2719dc3542,rippled.homes,available,1.8,19.98,medium,low,7,namecheap,,,13/08/2026 06:53
 64c4e8be-84b8-40ac-8098-b0aaee196c85,techno.homes,resell,,,high,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",16/11/2025 14:12,16/11/2026 23:59,26/09/2026 09:32
 d5fd04f2-7037-4bfa-b57f-c0f7bad5835e,grip.homes,resell,1.99,15.75,high,low,4,namesilo,,,28/09/2026 18:31
+1e5dd2bf-4491-40ce-a249-19c5902d6bac,sling.homes,available,1.54,14.21,high,low,5,porkbun,,,29/09/2026 18:16
+dee23342-1669-4476-86f7-14159ace5ead,digger.homes,available,1.24,13.97,high,low,6,spaceship,,,29/09/2026 06:38
 f7557a95-5520-4a25-8a9b-2beba8972d48,malay.homes,available,1.8,19.98,high,low,5,namecheap,,,24/08/2026 13:42
 1f2a5521-ad59-4615-b960-0d0c43f6b326,blatant.homes,available,1.8,19.98,medium,low,7,namecheap,,,10/08/2026 13:31
 63196442-a0ed-45b6-a099-6193aada7f65,proximo.homes,available,1.8,21.98,medium,low,7,namecheap,,,09/09/2026 04:40
+e747a05d-c5ef-4dfc-bff6-0069a2dc050b,dionysius.homes,available,1.99,17.29,medium,low,9,namesilo,,,29/09/2026 06:39
 45b111d9-bf8d-46ae-b894-21decbafdbed,quarto.homes,available,1.99,17.29,medium,low,6,namesilo,,,16/09/2026 12:37
 5ed04b64-e552-4321-ab07-d2cd62c40caf,tunguska.homes,available,1.99,17.29,medium,low,8,namesilo,,,19/09/2026 05:45
 6d8675ec-c251-4c47-aecc-24563cfd39df,aglaonema.homes,available,1.8,21.98,medium,low,9,namecheap,,,17/09/2026 18:18
@@ -668,7 +714,8 @@ e15c2bfa-ad51-4500-be5d-880418b51be0,limestone.homes,available,1.99,,high,low,9,
 4082a22e-f67a-4f27-99da-174b076c8ab8,hampton.homes,resell,,,high,low,7,"Global Domains International, Inc. DBA DomainCostClub.com",03/05/2021 18:40,03/05/2027 23:59,26/09/2026 06:33
 80c91a8e-56fd-4d51-978b-bf8cf0e63792,presumable.homes,available,1.8,21.98,high,medium,10,namecheap,,,09/09/2026 01:45
 0cf01586-80c2-4503-a565-9fd8e9e1e34c,spoke.homes,available,1.99,17.29,high,low,5,namesilo,,,25/09/2026 10:31
-6859e2cd-db09-43c3-b3a2-ec3e240f667d,uproarious.homes,available,1.8,19.98,medium,low,10,namecheap,,,21/08/2026 09:23
+e69531ad-163c-4faa-b34e-254f02dc9be9,chauffeur.homes,available,1.24,13.97,high,low,9,spaceship,,,29/09/2026 11:53
+6859e2cd-db09-43c3-b3a2-ec3e240f667d,uproarious.homes,available,1.8,19.98,high,low,10,namecheap,,,21/08/2026 09:23
 bf1f6be4-14de-4f8f-bf07-456b744add96,anatomist.homes,available,1.99,17.29,medium,low,9,namesilo,,,19/09/2026 03:32
 4f0caf1d-8c06-40e1-ada5-b8df7b8a6e82,downtime.homes,available,1.8,21.98,high,low,8,namecheap,,,24/09/2026 23:41
 bde11e50-6820-4ef8-a638-c0f1000fff8e,dipylon.homes,available,1.8,19.98,medium,low,7,namecheap,,,14/08/2026 08:43
@@ -678,7 +725,7 @@ b0a041df-6478-4435-a540-15f09f1ef49b,rejoin.homes,available,1.99,,high,low,6,nam
 11c2463a-01ec-420b-8ea8-2fd825f23cb2,alpena.homes,premium,53.92,53.92,medium,low,6,namesilo,,,18/09/2026 13:31
 9c300843-f989-4230-9188-bb9bd9cc2a7b,trashy.homes,available,1.8,19.98,medium,low,6,namecheap,,,18/08/2026 06:44
 5fce3221-d3ec-4df5-af4c-2c287b011e06,drily.homes,available,1.8,21.98,medium,low,5,namecheap,,,14/09/2026 14:23
-67b8d5cf-0683-4411-aeaf-d30a1c9a931e,grandad.homes,available,1.99,,high,low,7,name.com,,,
+67b8d5cf-0683-4411-aeaf-d30a1c9a931e,grandad.homes,available,1.24,13.97,high,low,7,spaceship,,,29/09/2026 21:10
 70caa815-d26e-4bb9-bd49-c2c2684af0ee,beamy.homes,available,1.8,19.98,medium,low,5,namecheap,,,09/08/2026 04:18
 9a1f0916-b41f-4c9b-8d29-3673f31ff85e,continual.homes,available,1.99,17.29,high,low,9,namesilo,,,23/09/2026 22:10
 49b53358-f22c-4e22-935c-8a273cef123a,chirp.homes,available,1.99,17.29,high,low,5,namesilo,,,24/09/2026 14:08
@@ -698,24 +745,28 @@ c0f1bd21-884b-41ed-bbff-921768dde54e,arachnida.homes,available,1.99,17.29,medium
 bd471ec7-30d8-42c5-b519-5ffa2961f9ca,light.homes,resell,,,high,low,5,Dynadot Inc,20/06/2026 00:13,20/06/2027 23:59,26/09/2026 07:14
 baf49e8c-8794-4aca-aef4-8ccd62af28b5,instruments.homes,available,1.99,17.29,high,low,11,namesilo,,,28/09/2026 04:58
 835e1c57-5889-415e-98aa-0c89ecc63e82,hewlett.homes,available,1.24,13.97,medium,low,7,spaceship,,,28/09/2026 23:16
-72dc0d0d-4695-4ed7-a8d4-a35b83b144a6,costumed.homes,available,1.8,19.98,medium,low,8,namecheap,,,13/08/2026 03:18
+72dc0d0d-4695-4ed7-a8d4-a35b83b144a6,costumed.homes,available,1.8,19.98,high,low,8,namecheap,,,13/08/2026 03:18
 eaf08b33-20fe-43a9-8740-e8fec5cfca31,benefactor.homes,available,1.99,17.29,high,low,10,namesilo,,,23/09/2026 07:53
 95220fb5-900f-434a-8988-a7fd902c8ee2,childcare.homes,premium,65,65,high,low,10,namecheap,,,24/09/2026 14:36
 10d0113d-44a0-4bd1-a9c3-509f6a13059c,stepmother.homes,available,1.99,,high,low,10,name.com,,,
 f391550f-546c-4f58-a9bf-91fc0596ea38,curves.homes,available,1.99,15.75,medium,low,6,namesilo,,,
-888b3848-d998-4482-b810-c5838ca4cb33,suggest.homes,available,1.99,,high,low,7,name.com,,,
+888b3848-d998-4482-b810-c5838ca4cb33,suggest.homes,available,1.8,21.98,high,low,7,namecheap,,,29/09/2026 22:49
 22e56829-dc7c-4928-8d2d-d24f8d745aa8,crested.homes,available,1.8,19.98,high,low,7,namecheap,,,13/08/2026 06:20
 286dd66f-ca85-4f4d-a57e-d92dad2adb24,punctured.homes,available,1.8,21.98,medium,low,9,namecheap,,,08/09/2026 16:56
 82326637-8131-4e56-81d5-40c0e933b6a2,arcsin.homes,available,1.99,17.29,medium,low,6,namesilo,,,20/09/2026 01:26
 2c73c3be-53b0-461e-81b7-3796c5c713ad,reverse.homes,premium,65,65,high,low,7,namecheap,,,23/09/2026 22:34
 7c787337-2ce5-49cc-8616-c33987aa82b7,slanted.homes,available,1.8,19.98,medium,low,7,namecheap,,,07/08/2026 04:15
+fbb60ad1-7693-426a-a196-27da0e7d8268,estimator.homes,premium,51.95,51.95,high,low,9,spaceship,,,29/09/2026 18:08
+c2d2a0b7-1c7c-41d6-92d5-8826b071f809,floats.homes,available,1.24,13.97,medium,low,6,spaceship,,,29/09/2026 23:46
 6aad88e3-9ba0-4181-aba1-f37003b8bb91,vogel.homes,resell,,,high,low,5,,,,28/09/2026 04:48
 4da4001a-2255-4de7-8fcf-3d92725ab688,weinberg.homes,available,1.99,17.29,medium,low,8,namesilo,,,28/09/2026 10:58
 983b154f-cb10-44ca-b859-ab4661f097e7,waist.homes,available,1.99,14.45,high,low,5,dynadot,,,28/09/2026 06:51
 41fd3453-4ae1-4a69-8f72-0c0fe5c0dc41,kinds.homes,available,1.99,20.99,medium,low,5,name.com,,,25/09/2026 19:57
 8a7182ad-2e04-4002-8d7a-45918909d9eb,steamed.homes,available,1.8,19.98,high,low,7,namecheap,,,
 485b79cf-3e05-4af4-bbef-f41781d6baf1,contacted.homes,available,1.99,17.29,medium,low,9,namesilo,,,28/09/2026 00:26
+c2245953-ee83-464a-b552-8b12a8e4138f,discovering.homes,available,1.24,13.97,medium,low,11,spaceship,,,29/09/2026 10:28
 a62d65ac-8586-4836-9ea5-ee70e61e660d,tuskegee.homes,available,1.54,14.21,medium,low,8,porkbun,,,28/09/2026 15:29
+111df7eb-e363-42eb-8697-e6fcfa5e8eed,bounced.homes,available,1.24,13.97,medium,low,7,spaceship,,,29/09/2026 17:31
 006c3dd2-5433-42e4-8908-eba51b405cce,armstrong.homes,premium,2660,2660,high,medium,9,namesilo,,,20/09/2026 07:49
 c5321dec-80b6-43f8-9a6e-748cc7801239,brooklyn.homes,resell,,,high,low,8,Dynadot Inc,19/11/2018 16:51,19/11/2026 23:59,26/09/2026 04:38
 a609206f-5770-4465-b687-46da8a0cc125,hatless.homes,available,1.8,19.98,medium,low,7,namecheap,,,21/08/2026 01:20
@@ -726,6 +777,7 @@ d58e69a5-5d03-46c7-beb4-c9720aae135f,see.homes,premium,2660,2660,high,medium,3,n
 20ac786b-2d0f-4bb7-bab9-caefdfb6fa3b,haitian.homes,available,1.8,19.98,high,low,7,namecheap,,,20/08/2026 22:17
 857b5ca1-3fdd-4dab-9960-bcf1b37baeb0,hecht.homes,available,1.99,17.29,high,low,5,namesilo,,,23/09/2026 07:20
 8922d73a-72f7-45fe-a7bf-17a0fbeaf21d,unleavened.homes,available,1.8,21.98,medium,low,10,namecheap,,,12/09/2026 14:46
+9b576bc0-15a7-4b1a-b091-5dc8d884a827,productivity.homes,available,1.99,17.29,high,low,12,namesilo,,,29/09/2026 23:18
 90207fa2-e689-4635-8045-59f3d6320c2a,meshugga.homes,available,1.8,19.98,low,low,8,namecheap,,,24/08/2026 21:04
 44d02c5d-f6f4-430a-99ac-8feb70742038,deceptive.homes,available,1.8,19.98,medium,low,9,namecheap,,,13/08/2026 21:16
 414611d0-4e3d-469b-a338-1fd71025e8ec,derived.homes,available,1.8,19.98,medium,low,7,namecheap,,,14/08/2026 03:07
@@ -747,15 +799,17 @@ b8795c8e-ce61-43dd-b149-314c4df080a2,mattresses.homes,available,1.8,21.98,medium
 7841df40-33df-4dc6-ac10-9bc3fcad337f,refundable.homes,available,1.99,,high,low,10,name.com,,,
 77c55a81-2850-4477-bc41-a6d2e52f4f2d,iliac.homes,available,1.8,19.98,medium,low,5,namecheap,,,21/08/2026 18:45
 01f0ac34-f355-48a6-a64f-35a91f0c48b8,vincible.homes,available,1.8,19.98,medium,low,8,namecheap,,,09/08/2026 05:42
-8b28bbcb-2d4b-4c99-ae37-689cf677d4e8,slashed.homes,available,1.8,21.98,medium,low,7,namecheap,,,10/09/2026 10:06
+8b28bbcb-2d4b-4c99-ae37-689cf677d4e8,slashed.homes,available,1.8,21.98,high,low,7,namecheap,,,10/09/2026 10:06
 20418f96-6d1c-437b-b537-bf7b9e3afa22,aquino.homes,available,1.54,14.21,medium,low,6,porkbun,,,28/09/2026 22:09
 0ee84966-0197-4b45-9149-ee01e768b60d,aviary.homes,available,1.8,21.98,high,low,6,namecheap,,,21/09/2026 09:22
-fa19bc2a-1c5e-4cdf-9a75-92ff190bedf8,anointing.homes,available,1.99,17.29,medium,low,9,namesilo,,,19/09/2026 11:19
+4591ccf6-9afe-4ee5-bc84-987d2724f5f1,osama.homes,available,1.99,17.29,medium,low,5,namesilo,,,29/09/2026 22:16
+fa19bc2a-1c5e-4cdf-9a75-92ff190bedf8,anointing.homes,available,1.99,17.29,high,low,9,namesilo,,,19/09/2026 11:19
 1bab8cd4-64cb-4580-8900-585580813a4e,regally.homes,available,1.8,21.98,medium,low,7,namecheap,,,15/09/2026 22:55
 26e1dd89-6f68-4891-8156-400a27efac08,reaches.homes,available,1.8,21.98,high,low,7,namecheap,,,18/09/2026 18:09
 3e43a212-6ddf-40f9-a661-05d08c925069,angelfish.homes,available,1.99,17.29,high,low,9,namesilo,,,19/09/2026 05:56
 d4c9c1fe-dcc9-45c5-b27f-576cc32ad878,simon.homes,resell,,,high,medium,5,"Global Domains International, Inc. DBA DomainCostClub.com",11/04/2021 17:02,11/04/2027 23:59,26/09/2026 09:02
 406a8000-6850-4cbc-8002-b2040767c44b,colbert.homes,available,1.99,17.29,medium,low,7,namesilo,,,27/09/2026 12:41
+af0d33d5-4dde-40d9-8223-dc34e788614e,embarrass.homes,available,1.99,17.29,medium,low,9,namesilo,,,29/09/2026 11:42
 28480982-9635-4674-87b1-b4b49cc6b146,squarely.homes,available,1.8,19.98,medium,low,8,namecheap,,,18/08/2026 12:39
 1e7f86ed-8d52-4b90-beb3-c9bf36785a93,detectives.homes,available,1.24,13.97,medium,low,10,spaceship,,,28/09/2026 05:09
 7ea43b9e-ec6a-4957-a282-f5c4027b7b7c,slipstream.homes,available,1.99,17.29,high,low,10,namesilo,,,21/09/2026 16:20
@@ -763,8 +817,7 @@ d4c9c1fe-dcc9-45c5-b27f-576cc32ad878,simon.homes,resell,,,high,medium,5,"Global 
 d2975e5d-3afd-410c-8ccc-03ee7fe4068b,flatness.homes,available,1.8,19.98,high,low,8,namecheap,,,24/08/2026 17:17
 f3c8485b-d064-4320-bd79-c4c50398c693,seating.homes,available,1.99,17.29,high,low,7,namesilo,,,29/09/2026 02:06
 de7eaae3-f551-49a6-869f-28951c4755bf,donovan.homes,premium,672.95,672.95,high,low,7,spaceship,,,28/09/2026 16:02
-9840d1ed-3ebd-4deb-9e6a-cbfe8f422bbe,adorer.homes,available,1.8,21.98,medium,low,6,namecheap,,,17/09/2026 09:45
-26e713e0-9744-4ee4-8285-6dcc5c26583e,couple.homes,available,1.99,15.75,high,low,6,namesilo,,,
+9840d1ed-3ebd-4deb-9e6a-cbfe8f422bbe,adorer.homes,available,1.8,21.98,high,low,6,namecheap,,,17/09/2026 09:45
 12d98e6e-e347-4af7-b740-2b35521d557f,costate.homes,available,1.8,19.98,medium,low,7,namecheap,,,13/08/2026 03:06
 00100e9d-7d9e-4c50-8f11-afc0bfa7578a,dancers.homes,available,1.8,21.98,high,low,7,namecheap,,,20/09/2026 05:50
 304e37dc-a477-4846-96cd-c1db18fdb7bd,tumor.homes,available,1.99,14.45,medium,low,5,dynadot,,,28/09/2026 10:32
@@ -783,6 +836,7 @@ e0d2954c-5668-47b7-8a7e-570a637ae451,variable.homes,available,1.54,14.21,high,lo
 03f464c3-c60d-4b1f-bd87-aa1fe1205551,butt.homes,available,1.8,19.98,medium,low,4,namecheap,,,09/08/2026 10:40
 60458222-1432-4501-909a-f5ef79b19fc0,criterial.homes,available,1.8,19.98,medium,low,9,namecheap,,,13/08/2026 07:27
 2c030ac8-46ea-4068-8485-e443e7c86580,dachshund.homes,available,1.8,21.98,high,low,9,namecheap,,,21/09/2026 17:04
+02ea837f-8233-42c7-a47c-1e017019ec74,forearm.homes,available,1.99,17.29,high,low,7,namesilo,,,30/09/2026 01:41
 ef1dfd5c-2a8d-4258-9a03-af79ab04deb7,biracial.homes,available,1.8,19.98,high,low,8,namecheap,,,10/08/2026 05:42
 18ab4714-c884-4d6a-a7af-a58070124ad6,banns.homes,available,1.99,17.29,medium,low,5,namesilo,,,22/09/2026 02:56
 4a319235-5737-4344-a1c6-218eab3a2299,seasons.homes,resell,,,medium,low,7,,,,28/09/2026 12:51
@@ -790,26 +844,29 @@ a8e305c5-5c14-4362-a355-964fb6830b73,cured.homes,available,1.8,19.98,high,low,5,
 115223cf-d163-479c-b041-0c33fe91d06c,aura.homes,premium,832,832,high,medium,4,namesilo,,,21/09/2026 04:15
 ee09f411-3e6b-489a-87e8-7a0b0a3b43db,dislocated.homes,available,1.8,19.98,medium,low,10,namecheap,,,14/08/2026 11:31
 7edfc6cb-804d-42c6-a369-46d980d7e6f2,reasonless.homes,available,1.8,19.98,medium,low,10,namecheap,,,11/08/2026 22:42
+901b3cd1-ae6e-40ed-bdb6-63fba1e788cd,shea.homes,premium,2660,2660,high,low,4,namesilo,,,29/09/2026 22:15
 f2ffc58d-8844-4ac9-8c8e-12c0bd4c699d,uncomplicated.homes,available,1.99,,high,low,13,name.com,,,
 1dd90cbf-3544-4f70-b0b5-8adf23c7fabb,serenely.homes,available,1.8,21.98,medium,low,8,namecheap,,,16/09/2026 01:06
+1c04f213-7d39-4409-a3b7-8e611be25036,antiques.homes,premium,51.95,51.95,medium,low,8,spaceship,,,29/09/2026 10:31
 8ff6d639-dd83-404d-b67d-2dabdcb75e30,blemish.homes,available,1.8,21.98,high,low,7,namecheap,,,24/09/2026 05:30
 a9a2dfe6-6f76-48d6-8950-4bae24d78ea4,probe.homes,available,1.99,17.29,high,low,5,namesilo,,,28/09/2026 10:09
 d8acb9b7-7020-4656-b028-e0d5a07c9abf,externally.homes,available,1.8,21.98,medium,low,10,namecheap,,,14/09/2026 17:11
 56f47017-4309-4042-8445-0d4c40c9e190,sitter.homes,available,1.8,19.98,high,low,6,namecheap,,,11/08/2026 06:16
 4b5779a8-672d-4292-91cc-689333d33ae3,distrait.homes,available,1.8,19.98,low,low,8,namecheap,,,14/08/2026 13:10
 eb09aa99-b0df-487c-bfe9-103f4ee301d5,belike.homes,available,1.8,21.98,medium,low,7,namecheap,,,04/09/2026 04:45
+bba94b42-7030-4290-b1e7-7bda08b9f7fd,telugu.homes,available,1.54,14.21,high,low,6,porkbun,,,29/09/2026 20:30
 767063a6-75de-4578-8bd2-4217433dd42c,adapted.homes,available,1.99,17.29,high,low,7,namesilo,,,21/09/2026 17:02
 bd93bf06-8415-4c9e-b162-c296d812d011,maldon.homes,available,1.8,21.98,medium,low,6,namecheap,,,22/09/2026 15:25
-26677170-ad3b-4cfc-b9af-86b2f6270417,annoy.homes,available,1.99,15.75,medium,low,5,namesilo,,,
+26677170-ad3b-4cfc-b9af-86b2f6270417,annoy.homes,available,1.8,21.98,high,low,5,namecheap,,,29/09/2026 14:37
 eeb9273b-36bd-438b-b9e2-1a185ef8d15e,elected.homes,available,1.8,19.98,high,low,7,namecheap,,,16/08/2026 02:35
+ceb03299-925d-432a-8184-35b96bb953ff,contestants.homes,available,1.8,21.98,medium,low,11,namecheap,,,29/09/2026 11:30
 1c3818a9-3a7a-485e-98d8-bc1ee7127a4f,apios.homes,available,1.8,21.98,medium,low,5,namecheap,,,19/09/2026 17:25
 9836a8e9-bc9c-49b1-ac63-3ce0b76fe0b3,breakable.homes,available,1.8,19.98,medium,low,9,namecheap,,,11/08/2026 02:59
-49d0ded1-ed16-4a57-b16f-7fb88f676cd7,diminishing.homes,available,1.99,,medium,low,11,name.com,,,
+49d0ded1-ed16-4a57-b16f-7fb88f676cd7,diminishing.homes,available,1.99,,high,low,11,name.com,,,
 ff9e8e07-edb6-41ba-8a4b-5b109a0e09d1,pulpit.homes,available,1.99,17.29,high,low,6,namesilo,,,18/09/2026 17:14
 a8eb2297-6f65-4140-8e5e-a97b3290f585,snuck.homes,available,1.99,17.29,medium,low,5,namesilo,,,20/09/2026 23:46
-5cb3a4de-626f-41f2-8159-608aa99321db,nurse.homes,premium,812.5,,high,low,5,name.com,,,
 36b91d8a-9552-4054-97b9-208d736c28f9,cage.homes,available,1.99,17.29,high,low,4,namesilo,,,22/09/2026 14:36
-c93de12e-b9c7-4ab3-953a-f9c8eb46e432,peirce.homes,available,1.99,17.29,medium,low,6,namesilo,,,23/09/2026 08:23
+c93de12e-b9c7-4ab3-953a-f9c8eb46e432,peirce.homes,available,1.99,17.29,high,low,6,namesilo,,,23/09/2026 08:23
 c06e19bb-4e35-48c9-b4c2-d887e231d01a,accumulate.homes,available,1.8,19.98,high,low,10,namecheap,,,12/08/2026 16:47
 e1482e95-8786-474d-805d-cb72b72ab12c,zonal.homes,available,1.8,21.98,medium,low,5,namecheap,,,13/09/2026 15:29
 5adf1518-7ed3-4ed9-a580-ff83401b436b,reflection.homes,available,1.99,17.29,high,low,10,namesilo,,,25/09/2026 22:24
@@ -818,8 +875,9 @@ e1482e95-8786-474d-805d-cb72b72ab12c,zonal.homes,available,1.8,21.98,medium,low,
 8af065b2-8d4b-49ba-abad-5096f72a71d3,agaric.homes,available,1.99,17.29,medium,low,6,namesilo,,,17/09/2026 16:17
 83630c3d-b52a-4b5d-9c72-c8de6554c301,algometer.homes,available,1.99,17.29,medium,low,9,namesilo,,,18/09/2026 07:11
 2c01d4ca-3610-44fa-aee9-420eeff6832a,bat.homes,premium,2600,2600,high,low,3,namecheap,,,20/09/2026 18:59
+f62a26d2-c868-456e-b8c8-324a7fa442a4,symptom.homes,available,1.99,17.29,high,low,7,namesilo,,,29/09/2026 08:12
 79c03ea2-d980-4143-8fa5-b160c8917f0c,such.homes,available,1.99,17.29,high,low,4,namesilo,,,28/09/2026 01:50
-bc08329b-cfca-4e0a-893d-e9de4126ea56,dissolve.homes,available,1.99,15.75,high,low,8,namesilo,,,
+bc08329b-cfca-4e0a-893d-e9de4126ea56,dissolve.homes,available,1.24,13.97,high,low,8,spaceship,,,29/09/2026 16:16
 36115a7a-485d-4ce6-a126-4194d5ae23ff,trustfully.homes,available,1.8,21.98,medium,low,10,namecheap,,,14/09/2026 08:14
 f70f2303-1053-419a-b1a9-f7a505bf8512,chains.homes,resell,,,high,low,6,,,,27/09/2026 12:26
 7b60fad9-2e2c-4e55-80ba-2ba4866b55c6,blt.homes,available,1.99,17.29,high,low,3,namesilo,,,21/09/2026 16:25
@@ -840,12 +898,13 @@ c0c65979-a84d-4b82-a533-49647b1c2252,haired.homes,available,1.8,19.98,medium,low
 077a3896-bc19-4400-b4e5-c84a14ef2152,antecedent.homes,available,1.8,19.98,high,low,10,namecheap,,,
 87498dcd-fb31-4766-af82-6a0cfdc6898f,unfair.homes,available,1.99,17.29,medium,low,6,namesilo,,,28/09/2026 09:45
 41cdfd12-dcc4-4dd5-8a34-fde714366993,columbus.homes,premium,832,832,high,low,8,namesilo,,,28/09/2026 05:23
-c9090b1d-9eb5-4666-bdc8-b7bdc3d10c97,plenary.homes,available,1.8,21.98,medium,low,7,namecheap,,,08/09/2026 21:06
+c9090b1d-9eb5-4666-bdc8-b7bdc3d10c97,plenary.homes,available,1.8,21.98,high,low,7,namecheap,,,08/09/2026 21:06
 bd57bb1c-10fe-487c-bb5d-c4eda1d345ec,beneficial.homes,available,1.8,19.98,high,low,10,namecheap,,,09/08/2026 14:24
 9f438523-9e99-4a04-b766-7e020ff91a2a,antiserum.homes,available,1.99,17.29,medium,low,9,namesilo,,,19/09/2026 15:05
 c55aba9c-fc49-4802-ad08-beddd24ce0db,forcible.homes,available,1.8,19.98,medium,low,8,namecheap,,,18/08/2026 11:19
 6ff9ca4b-7cbd-4139-b406-1a329230e308,barcarole.homes,available,1.99,17.29,medium,low,9,namesilo,,,22/09/2026 05:06
 bb155329-5908-49db-b7b4-d202a8a4aa21,earthquake.homes,available,1.99,17.29,high,low,10,namesilo,,,27/09/2026 13:14
+4a98accb-75d8-4f35-94ca-2a4fb595b279,silvio.homes,available,1.24,13.97,medium,low,6,spaceship,,,30/09/2026 00:38
 1a5f910e-5b70-40a7-b197-a87a99f730e2,dishonored.homes,available,1.8,19.98,medium,low,10,namecheap,,,14/08/2026 10:23
 b69655d6-2856-4430-b01b-ca898fa54470,amendment.homes,available,1.8,21.98,high,low,9,namecheap,,,18/09/2026 18:38
 e0eab81d-868b-48d2-8aa1-fe21d4e70579,basely.homes,available,1.8,21.98,medium,low,6,namecheap,,,13/09/2026 23:35
@@ -870,7 +929,7 @@ fcb47060-4ed2-47cd-b101-0e0080c7f5af,bbc.homes,premium,812.5,,high,medium,3,name
 06b0f09b-24f0-468d-8e10-e3dc45ee1956,roundly.homes,available,1.8,21.98,medium,low,7,namecheap,,,14/09/2026 00:45
 a181a531-dfce-4697-a38a-b3fae670d2f9,carnation.homes,available,1.8,19.98,high,low,9,namecheap,,,11/08/2026 19:26
 85718dfa-3d4b-42c8-a087-2b9d27d7e880,coin.homes,premium,2500,2500,high,medium,4,name.com,,,25/08/2026 00:50
-5c6c1ddc-fbaf-43ef-9316-0ae85c873b22,bine.homes,available,1.99,17.29,medium,low,4,namesilo,,,23/09/2026 17:13
+5c6c1ddc-fbaf-43ef-9316-0ae85c873b22,bine.homes,available,1.99,17.29,high,low,4,namesilo,,,23/09/2026 17:13
 01b66179-4703-4e53-a1ee-05d5eb06c8de,ruinous.homes,available,1.8,19.98,medium,low,7,namecheap,,,10/08/2026 13:28
 93c271c1-8ba0-4147-be85-f51387fb222b,cumulative.homes,available,1.8,19.98,high,low,10,namecheap,,,
 ed44f4df-40d2-48b0-8eb3-5002ede34837,burping.homes,available,1.8,21.98,medium,low,7,namecheap,,,23/09/2026 04:38
@@ -878,6 +937,7 @@ bbca19bc-e523-42ec-bb38-c6ce49ddd0a7,assurance.homes,premium,53.92,53.92,high,lo
 03d8638b-0131-4826-b03b-e433cf7ea7b7,shaven.homes,available,1.8,21.98,high,medium,6,namecheap,,,10/09/2026 06:07
 0a430104-933d-4500-bca7-1aa9db7244e1,diaper.homes,available,1.8,21.98,high,low,6,namecheap,,,03/09/2026 13:09
 d68faca5-651f-4659-ab50-c35bebdd58aa,booming.homes,available,1.8,19.98,high,low,7,namecheap,,,10/08/2026 19:14
+5eaaec26-3aa4-4dec-a926-053fcfed07ac,tyrone.homes,available,1.24,13.97,high,low,6,spaceship,,,29/09/2026 20:57
 e7171ad8-a74e-4677-8d18-01abb694fabb,broadsheet.homes,available,1.8,19.98,high,low,10,namecheap,,,11/08/2026 05:08
 b63d2fa8-e708-4bd4-a054-47f8efb2633d,sightless.homes,available,1.8,21.98,high,medium,9,namecheap,,,10/09/2026 07:56
 27c8c00a-beaf-4269-935a-9d9aaba86809,ascensive.homes,available,1.8,19.98,medium,low,9,namecheap,,,07/08/2026 00:46
@@ -885,6 +945,7 @@ b63d2fa8-e708-4bd4-a054-47f8efb2633d,sightless.homes,available,1.8,21.98,high,me
 2e317da9-0004-4822-8955-dd0ebec7667e,baiting.homes,available,1.8,21.98,medium,low,7,namecheap,,,21/09/2026 19:58
 526e6f0d-d624-4ce2-8e90-78cb55dc696c,whiskey.homes,available,1.99,17.29,high,low,7,namesilo,,,27/09/2026 16:19
 51a35416-03fa-4811-bd81-cfedb94b2bed,dreary.homes,available,1.8,19.98,medium,low,6,namecheap,,,14/08/2026 11:47
+7ea7f32c-7df4-4fd9-be7c-7a8556d1bf56,bastards.homes,available,1.24,13.97,medium,low,8,spaceship,,,29/09/2026 11:17
 8468a961-d036-44c8-9861-7c6c0b2e9bf5,pamphlet.homes,available,1.99,17.29,high,low,8,namesilo,,,24/09/2026 07:11
 e0ffec92-e17c-4edd-ad22-dc50504278b7,hillsboro.homes,premium,832,832,medium,low,9,namesilo,,,29/09/2026 04:37
 4846c47b-ed5f-412e-a2f6-3055ba771a87,shopsoiled.homes,available,1.8,21.98,high,medium,10,namecheap,,,10/09/2026 06:45
@@ -902,13 +963,13 @@ ddaadd6e-4d7b-40ed-9769-3fc668e3d643,destroyed.homes,available,1.99,17.29,medium
 31162224-338e-4824-990b-acb2210739d0,sucked.homes,available,1.8,21.98,medium,low,6,namecheap,,,18/09/2026 04:29
 24dd4041-8279-4b0f-a0c2-0cefbb276793,songster.homes,available,1.99,17.29,medium,low,8,namesilo,,,21/09/2026 22:38
 b60b4eae-e9e4-4711-9c54-1ab1575971fb,indelible.homes,available,1.8,19.98,high,low,9,namecheap,,,22/08/2026 02:37
-c608386f-663e-440a-84f9-1ea9789c219c,bragg.homes,available,1.99,17.29,medium,low,5,namesilo,,,25/09/2026 21:58
+c608386f-663e-440a-84f9-1ea9789c219c,bragg.homes,available,1.99,17.29,high,low,5,namesilo,,,25/09/2026 21:58
 62c3c104-bb6d-450b-b15c-d14c31225bde,coordinates.homes,available,1.24,13.97,medium,low,11,spaceship,,,28/09/2026 04:24
 fa7b044c-2832-4aa8-8e33-f695da424d1e,balancing.homes,available,1.8,21.98,high,low,9,namecheap,,,21/09/2026 20:56
 1f7e6319-ec61-4c0b-a219-1b8f9b98530c,gordon.homes,premium,832,832,high,low,6,namesilo,,,25/09/2026 11:43
 31d7162b-ba34-4069-84ce-9d92c794c5dd,priorities.homes,available,1.99,17.29,medium,low,10,namesilo,,,28/09/2026 17:39
 7dcef267-58e4-42db-a916-f50e6e4c10b7,bilberry.homes,available,1.99,17.29,medium,low,8,namesilo,,,23/09/2026 15:37
-2c999656-7a6e-4070-9bf1-fd52b6a836b5,akkadian.homes,available,1.8,21.98,medium,low,8,namecheap,,,18/09/2026 00:10
+2c999656-7a6e-4070-9bf1-fd52b6a836b5,akkadian.homes,available,1.8,21.98,high,low,8,namecheap,,,18/09/2026 00:10
 03a09671-0e3e-4514-88c6-5e2e32d7d139,ropy.homes,available,1.8,21.98,high,medium,4,namecheap,,,09/09/2026 18:37
 bfa48d4d-882f-4901-94fd-d4262e311bef,threadbare.homes,available,1.8,19.98,medium,low,10,namecheap,,,08/08/2026 11:10
 1f41c03b-d2ef-464c-964d-2c7fcf37d0e6,adjunct.homes,available,1.8,19.98,high,low,7,namecheap,,,
@@ -920,6 +981,7 @@ a31482a6-35e3-48f5-9e20-f1724ac40223,nutriment.homes,available,1.99,17.29,medium
 5540a9e7-75af-4e82-ab6b-6db102736f8f,anthriscus.homes,available,1.99,17.29,medium,low,10,namesilo,,,19/09/2026 13:53
 034be64e-5d36-4e2e-9fb6-7ad6c718f5b3,autopsy.homes,available,1.8,21.98,high,low,7,namecheap,,,21/09/2026 07:38
 e3b65a59-231b-41c2-85ac-e68272b61b7b,strike.homes,premium,53.92,53.92,high,low,6,namesilo,,,25/09/2026 14:25
+05b0b1ef-48a9-4d97-881e-ba1cbc31a86e,waverley.homes,available,1.99,17.29,medium,low,8,namesilo,,,29/09/2026 09:35
 38955b74-f606-4fb9-955d-b502308680af,profession.homes,available,1.99,,high,low,10,name.com,,,
 a46363d0-bb76-491f-b834-3805e98c2519,fixed.homes,available,1.8,21.98,high,low,5,namecheap,,,24/09/2026 19:10
 055238da-6c1b-4889-b23e-c6e3a93f296a,oxonian.homes,available,1.8,21.98,medium,low,7,namecheap,,,04/09/2026 22:32
@@ -927,75 +989,13 @@ fbab2dfd-8d58-4a6b-bf3c-bca99524f468,blotto.homes,available,1.8,19.98,low,low,6,
 bbe39a8b-108f-46d4-85e3-bcdf1127946e,eolic.homes,available,1.99,17.29,low,low,5,namesilo,,,17/09/2026 12:36
 6ddac35a-91d0-46df-8688-d0c44a733a95,trigonal.homes,available,1.8,21.98,medium,low,8,namecheap,,,09/09/2026 16:45
 db1859f2-32aa-41f0-90c7-51b646711470,pureblood.homes,available,1.8,21.98,medium,low,9,namecheap,,,08/09/2026 13:00
-8d75bf5e-a9eb-4ee8-a656-a69b1b3944f5,enterprise.homes,resell,,,high,medium,10,"Global Domains International, Inc. DBA DomainCostClub.com",14/06/2021 16:32,14/06/2027 23:59,28/09/2026 02:32
+8d75bf5e-a9eb-4ee8-a656-a69b1b3944f5,enterprise.homes,resell,,,high,medium,10,"Global Domains International, Inc. DBA DomainCostClub.com",14/06/2021 16:32,14/06/2027 23:59,29/09/2026 15:05
 c4e829ff-2149-4cbd-972d-548e352c78ed,heyday.homes,available,1.8,19.98,high,low,6,namecheap,,,18/08/2026 09:24
 f1695b67-5e92-432c-9273-0a718ea33e94,unidentified.homes,available,1.99,17.29,medium,low,12,namesilo,,,28/09/2026 08:18
+ec743929-b7bf-4c16-8b2d-8c42118fcf97,vibrations.homes,available,1.8,21.98,medium,low,10,namecheap,,,29/09/2026 23:57
 3e19d745-e07a-4f5d-b41f-7c132337a2e9,keyless.homes,premium,41.3,41.3,medium,low,7,namesilo,,,22/08/2026 15:44
 c833d13b-72f9-44a1-bfea-e0f5058f639b,intact.homes,available,1.8,19.98,high,low,6,namecheap,,,22/08/2026 07:49
 267d4eae-8214-4238-b410-92ba52949bde,sam.homes,resell,,,high,medium,3,"Sav.com, LLC - 6",09/07/2026 00:03,09/07/2027 23:59,26/09/2026 08:48
-445ddc61-fada-4c31-82ef-512adfb40415,steer.homes,available,1.99,,high,low,5,name.com,,,
+445ddc61-fada-4c31-82ef-512adfb40415,steer.homes,available,1.99,17.29,high,low,5,namesilo,,,29/09/2026 10:54
 3506124a-9777-4cb4-9033-e57647f9d616,bivalvia.homes,available,1.99,17.29,medium,low,8,namesilo,,,23/09/2026 23:16
 8db81534-4884-4351-9b04-3cd983db7bca,cohesive.homes,available,1.8,19.98,high,low,8,namecheap,,,12/08/2026 16:05
-87004068-e2cb-4c55-bed2-84506f77d745,intestate.homes,available,1.8,19.98,medium,low,9,namecheap,,,22/08/2026 08:24
-c1acdfd5-7fed-4cf7-84a2-f3083870af0c,spavined.homes,available,1.8,21.98,high,medium,8,namecheap,,,10/09/2026 15:20
-496b1279-50b3-4616-9f54-299d62943f71,doctrine.homes,available,1.8,21.98,high,low,8,namecheap,,,28/09/2026 02:40
-0298d356-f738-48b3-92cb-aa8efc4adef8,hearsay.homes,available,1.8,19.98,medium,low,7,namecheap,,,21/08/2026 02:04
-1a4a2d10-a9fb-4989-9ac5-a92057d8cd42,amber.homes,premium,832,832,high,low,5,namesilo,,,22/09/2026 03:52
-9a276613-5340-4979-95b0-979022c327f2,perm.homes,available,1.8,21.98,high,low,4,namecheap,,,08/09/2026 17:34
-5fba66c6-2014-476c-bbd6-271825077f55,encrusted.homes,available,1.8,19.98,medium,low,9,namecheap,,,13/08/2026 09:24
-0bd05e19-fc33-4aec-ba7b-423b29427097,thoughtless.homes,available,1.99,,medium,low,11,name.com,,,
-a1854522-7765-448a-8c13-8d0d945437ca,overboard.homes,available,1.8,21.98,high,low,9,namecheap,,,15/09/2026 18:25
-e52eaeb5-e4ea-4589-aed9-785d7ee7dd06,marta.homes,available,1.8,21.98,high,low,5,namecheap,,,27/09/2026 17:44
-e7a3c1bd-c5a2-4117-a5ed-583b969932d8,palaver.homes,available,1.8,21.98,medium,low,7,namecheap,,,23/09/2026 23:26
-7a08735e-a607-4922-a8e3-6df52453819c,routinely.homes,available,1.8,21.98,medium,low,9,namecheap,,,16/09/2026 00:11
-7d6fecd3-e32b-4433-833f-efa798d5d1bf,unasked.homes,available,1.8,21.98,medium,low,7,namecheap,,,12/09/2026 01:10
-7a5328ca-efff-4ff2-a9cb-c348550e6865,abyssal.homes,available,1.8,19.98,medium,low,7,namecheap,,,
-b59d8c4f-fa54-4c4c-8ac1-b31627769171,parliamentary.homes,available,1.99,,medium,low,13,name.com,,,
-36b4dc68-4cfe-4cb7-b749-b8fa4421c6dc,phylliform.homes,available,1.8,21.98,high,medium,10,namecheap,,,08/09/2026 19:24
-99e0e611-632c-4e7e-ac8e-f08cece5e310,saltish.homes,available,1.8,21.98,high,medium,7,namecheap,,,09/09/2026 20:57
-c28a1b56-ce55-4a57-a834-59fb3d04a8e6,stringent.homes,available,1.8,21.98,medium,low,9,namecheap,,,10/09/2026 22:40
-6945911f-844b-4039-a8bf-eab45f331e3f,lanky.homes,available,1.8,19.98,medium,low,5,namecheap,,,18/08/2026 20:11
-02fdba9a-c3bc-452b-97cc-0def6071a9f1,whitish.homes,available,1.8,19.98,medium,low,7,namecheap,,,24/08/2026 23:06
-99f7b011-09d6-47f2-8cd5-389d173630fe,demography.homes,available,1.24,13.97,medium,low,10,spaceship,,,28/09/2026 18:56
-d0736aa5-7e86-44af-b394-efc4d9298f35,winner.homes,resell,,,high,low,6,"Global Domains International, Inc. DBA DomainCostClub.com",14/04/2020 06:16,14/04/2027 23:59,28/09/2026 17:49
-e4cbda9e-fcea-4af3-ba58-9d1fc20af033,use.homes,resell,,,high,low,3,Dynadot Inc,25/06/2026 09:14,25/06/2027 23:59,26/09/2026 09:54
-e5d3232a-aeb0-45bc-a8eb-42cce074c70b,smiling.homes,available,1.99,17.29,high,low,7,namesilo,,,27/09/2026 23:05
-bc6fe1ff-0de6-47bb-9dd8-c1d33a9b73a2,loses.homes,available,1.8,21.98,medium,low,5,namecheap,,,27/09/2026 11:07
-356651ef-5f0b-4f1b-9277-cf95e829cce3,hick.homes,available,1.8,19.98,medium,low,4,namecheap,,,11/08/2026 09:44
-18184fe8-0089-4383-8ed0-591f3fcf9fb3,huffish.homes,available,1.8,19.98,medium,low,7,namecheap,,,21/08/2026 14:38
-477445fe-5ff3-4d69-acc0-fbdf0c914602,misleading.homes,available,1.8,19.98,medium,low,10,namecheap,,,25/08/2026 01:34
-599018ee-3dd0-434d-8a6c-2fc8ed22e4e6,alcibiades.homes,available,1.99,17.29,medium,low,10,namesilo,,,18/09/2026 04:00
-408545de-d924-4420-a88c-c8b79c407ea1,blending.homes,available,1.99,17.29,high,low,8,namesilo,,,24/09/2026 05:51
-dbe34830-c8b1-45ed-8875-010d0591ee8b,oak.homes,resell,,,high,low,3,Dynadot Inc,25/06/2024 06:02,25/06/2027 23:59,26/09/2026 07:50
-4b67584d-3308-48fc-b634-c7c6d3d6dea2,astrolabe.homes,available,1.8,21.98,high,low,9,namecheap,,,20/09/2026 17:43
-c10188ef-62fd-4911-b4e4-bb9c8bb24f41,mediated.homes,available,1.8,19.98,medium,low,8,namecheap,,,24/08/2026 18:53
-697678bd-6de0-4d4a-89eb-3d09320a7636,smashing.homes,available,1.8,19.98,high,low,8,namecheap,,,08/08/2026 12:53
-e484d5af-29de-4316-8882-c35c0fd2b2d1,inc.homes,premium,812.5,,high,low,3,name.com,,,
-917ab314-c302-4a06-b8a8-dac4dd07ea19,unnoticed.homes,available,1.8,21.98,medium,low,9,namecheap,,,12/09/2026 16:02
-f168a69e-34d4-430a-9748-0c2792195eea,window.homes,resell,,,high,low,6,Dynadot Inc,31/01/2026 21:52,31/01/2027 23:59,26/09/2026 10:10
-969d16e0-14e0-41f7-b4fa-3c3250829cd9,segovia.homes,available,1.99,17.29,medium,low,7,namesilo,,,19/09/2026 04:41
-0df68064-7ec0-4ca9-9f61-0987efb3b40a,arundo.homes,available,1.99,17.29,medium,low,6,namesilo,,,20/09/2026 12:25
-13e1463d-8f14-4ef4-8c14-53254a7ef797,ministrant.homes,available,1.8,19.98,medium,low,10,namecheap,,,24/08/2026 23:57
-edc42953-a96a-4e4c-a8de-cf2da640340b,antimony.homes,available,1.99,17.29,medium,low,8,namesilo,,,19/09/2026 14:45
-4165ef01-21fe-4037-9d14-9b977e210dfe,convexly.homes,available,1.8,21.98,medium,low,8,namecheap,,,14/09/2026 08:39
-c1b826d4-5bb8-4c2f-bc6d-bad3fcc0f8ed,silenced.homes,available,1.8,21.98,high,medium,8,namecheap,,,10/09/2026 08:05
-3085d955-e50e-4047-a91c-15b17c5071b7,annexation.homes,available,1.99,17.29,high,low,10,namesilo,,,19/09/2026 10:25
-120ca788-3972-4883-9bac-f12745d4216b,masked.homes,available,1.8,19.98,high,low,6,namecheap,,,12/08/2026 11:32
-7f21748c-4fcd-4e45-92e7-ca9d9716f4d3,things.homes,resell,,,high,low,6,Dynadot Inc,19/06/2026 12:28,19/06/2027 23:59,28/09/2026 05:47
-94da2b27-4723-44fb-b982-c9e099da36ed,turtledove.homes,available,1.8,21.98,medium,low,10,namecheap,,,21/09/2026 04:53
-e65e94ef-1f57-48ad-a21b-319f7bb86798,ubiquitous.homes,available,1.8,21.98,high,low,10,namecheap,,,04/09/2026 13:54
-2775976d-cd92-49a6-924f-433f649eed7c,adumbrate.homes,available,1.8,19.98,medium,low,9,namecheap,,,22/08/2026 08:33
-2e4b170d-5f95-4f44-9d0b-aa2322347f9d,detained.homes,available,1.99,17.29,low,low,8,namesilo,,,29/09/2026 05:25
-aab04501-c58a-4ec3-94a9-2a366e225ecb,thermionic.homes,available,1.8,21.98,medium,low,10,namecheap,,,11/09/2026 12:56
-9afbf48a-95e3-41df-8344-08e764d9878d,amble.homes,available,1.8,21.98,medium,low,5,namecheap,,,18/09/2026 16:54
-2a45cec9-8bb2-4402-9d87-8b82ad9ad4c0,uniform.homes,available,1.99,17.29,high,low,7,namesilo,,,19/09/2026 05:41
-27595987-b91f-47c7-982d-448219ef8d3e,owen.homes,premium,832,832,high,low,4,namesilo,,,25/09/2026 09:42
-ac8f2154-ad3d-4952-9ed0-364f3c11ab14,medieval.homes,available,1.8,19.98,high,low,8,namecheap,,,12/08/2026 06:12
-24108443-3690-470b-bdac-d9be46a15234,jan.homes,available,1.99,17.29,high,low,3,namesilo,,,26/09/2026 06:59
-fdb818d6-e61a-49a1-8ad6-cad33ddecb06,navel.homes,available,1.99,17.29,high,low,5,namesilo,,,23/09/2026 06:35
-47de93d6-4445-4e25-8c3e-4074fbb916ef,announcement.homes,available,1.99,17.29,high,low,12,namesilo,,,26/09/2026 00:47
-b5b2d661-f0cf-46e3-bc45-f75d9a749508,testify.homes,available,1.99,17.29,high,low,7,namesilo,,,25/09/2026 11:08
-af49c491-8b46-4d9d-bb6c-6ac330b8e290,tierce.homes,available,1.8,19.98,medium,low,6,namecheap,,,
-62d5b326-eedb-40f8-b226-3d06f0597927,typic.homes,available,1.8,21.98,medium,low,5,namecheap,,,11/09/2026 22:29
-af780246-e0d9-4ad6-9784-73c546396029,witting.homes,available,1.8,19.98,medium,low,7,namecheap,,,12/08/2026 22:24
-e4b920fc-bb83-4d04-8617-bd2110ea2646,kitchen.homes,premium,812.5,,high,low,7,name.com,,,

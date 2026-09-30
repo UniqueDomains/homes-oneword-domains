@@ -1,10 +1,10 @@
-# Available .HOMES One-Word Domains (23,287)
+# Available .HOMES One-Word Domains (25,047)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C287%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C047%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .homes one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,287 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,047 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,287 domains · **Median ask:** $117.96 · **High-demand under $2,500:** 33
+**Public extract:** 1,000 rows · **Live catalog:** 25,047 domains · **Median ask:** $107.90 · **High-demand under $2,500:** 46
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/homes`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | ams.homes   | available | $1.99     | $17.29        | high           | low    | 3      | namesilo        |
-| low.homes   | resell    | $1.99     | —             | high           | low    | 3      | Spaceship, Inc. |
+| cue.homes   | resell    | $1.99     | $17.29        | high           | medium | 3      | namesilo        |
 | ape.homes   | premium   | $812.50   | $20.99        | high           | low    | 3      | name.com        |
 | atf.homes   | available | $1.80     | $21.98        | high           | low    | 3      | namecheap       |
-| cyan.homes  | resell    | $1.99     | $15.75        | high           | low    | 4      | Spaceship, Inc. |
+| low.homes   | resell    | $1.99     | —             | high           | low    | 3      | Spaceship, Inc. |
 | bat.homes   | premium   | $2,600    | $2,600        | high           | low    | 3      | namecheap       |
 | azt.homes   | available | $1.99     | $17.29        | high           | low    | 3      | namesilo        |
-| grip.homes  | resell    | $1.99     | $15.75        | high           | low    | 4      | namesilo        |
+| cyan.homes  | resell    | $1.99     | $15.75        | high           | low    | 4      | Spaceship, Inc. |
 | bbc.homes   | premium   | $812.50   | —             | high           | medium | 3      | name.com        |
-| bjs.homes   | available | $1.99     | $17.29        | medium         | low    | 3      | namesilo        |
-| award.homes | resell    | $1.99     | $15.75        | high           | low    | 5      | namesilo        |
-| inc.homes   | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
-| blt.homes   | available | $1.99     | $17.29        | high           | low    | 3      | namesilo        |
-| bus.homes   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc     |
+| bjs.homes   | available | $1.99     | $17.29        | high           | low    | 3      | namesilo        |
+| grip.homes  | resell    | $1.99     | $15.75        | high           | low    | 4      | namesilo        |
 | kim.homes   | premium   | $2,600    | $2,600        | high           | low    | 3      | namecheap       |
-| cue.homes   | available | $1.99     | $17.29        | high           | low    | 3      | namesilo        |
-| met.homes   | resell    | —         | —             | high           | low    | 3      | —               |
+| blt.homes   | available | $1.99     | $17.29        | high           | low    | 3      | namesilo        |
+| award.homes | resell    | $1.99     | $15.75        | high           | low    | 5      | namesilo        |
 | nyc.homes   | premium   | $2,500    | —             | high           | medium | 3      | name.com        |
 | der.homes   | available | $1.24     | $13.97        | medium         | low    | 3      | spaceship       |
-| oak.homes   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc     |
+| bus.homes   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc     |
+| see.homes   | premium   | $2,660    | $2,660        | high           | medium | 3      | namesilo        |
+| erp.homes   | available | $1.24     | $13.97        | high           | medium | 3      | spaceship       |
+| met.homes   | resell    | —         | —             | high           | low    | 3      | —               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,287 live domains                        |
+| 1,000-row public sample | 25,047 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 33 high-demand names under $2,500          |
+| Basic exported fields   | 46 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOMES One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOMES One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
